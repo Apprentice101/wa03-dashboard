@@ -1,0 +1,913 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T19:45:00Z",
+  "exportedAt": "2026-06-12T19:05:21.182Z",
+  "districtCode": "WA-03",
+  "data": {
+    "DISTRICT": {
+      "id": "wa-03",
+      "districtNumber": "WA-03",
+      "districtName": "Washington's 3rd Congressional District",
+      "state": "Washington",
+      "counties": [
+        "Clark",
+        "Cowlitz",
+        "Lewis",
+        "Skamania",
+        "Klickitat",
+        "Pacific",
+        "Wahkiakum",
+        "Thurston (part)"
+      ],
+      "majorPlaces": [
+        "Vancouver",
+        "Longview",
+        "Centralia",
+        "Kelso",
+        "Chehalis",
+        "Battle Ground"
+      ],
+      "cycleYear": 2026,
+      "population": 780000,
+      "registeredVoters": 400000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 152000,
+          "pct": 38
+        },
+        {
+          "label": "Republican",
+          "count": 140000,
+          "pct": 35
+        },
+        {
+          "label": "No Party Preference / Other",
+          "count": 108000,
+          "pct": 27
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — WA-03",
+        "winner": {
+          "name": "Marie Gluesenkamp Perez (D)",
+          "pct": 51.7,
+          "votes": 183000
+        },
+        "runnerUp": {
+          "name": "Joe Kent (R)",
+          "pct": 48.3,
+          "votes": 171000
+        },
+        "turnoutPct": 64
+      }
+    },
+    "SOURCES": {
+      "src-wa-sos-elections": {
+        "id": "src-wa-sos-elections",
+        "name": "Washington Secretary of State — Elections Division",
+        "short": "WA SOS Elections",
+        "url": "https://www.sos.wa.gov/elections",
+        "publisher": "Washington Secretary of State (Steve Hobbs)",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-wa-voter-registration": {
+        "id": "src-wa-voter-registration",
+        "name": "Washington — myvote.wa.gov Voter Portal",
+        "short": "WA Voter Portal",
+        "url": "https://myvote.wa.gov",
+        "publisher": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Primary portal for voter registration, ballot tracking, and drop box lookup statewide."
+      },
+      "src-wa-ballot-tracker": {
+        "id": "src-wa-ballot-tracker",
+        "name": "Washington — Where's My Ballot? (myvote.wa.gov)",
+        "short": "WA Ballot Tracker",
+        "url": "https://myvote.wa.gov/en-us/TrackMyBallot",
+        "publisher": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-wa-rcw-29a": {
+        "id": "src-wa-rcw-29a",
+        "name": "Washington Revised Code — Title 29A (Elections)",
+        "short": "RCW Title 29A",
+        "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=29A",
+        "publisher": "Washington State Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
+      },
+      "src-clark-elections": {
+        "id": "src-clark-elections",
+        "name": "Clark County Elections",
+        "short": "Clark Elections",
+        "url": "https://clark.wa.gov/elections",
+        "publisher": "Clark County Elections Office",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Largest county in WA-03 (Vancouver). Ballots for Aug 4 primary mailed by July 17. Drop boxes open from ~July 17 through 8 p.m. on Election Day. Results at clarkvotes.org."
+      },
+      "src-cowlitz-auditor": {
+        "id": "src-cowlitz-auditor",
+        "name": "Cowlitz County Auditor — Elections",
+        "short": "Cowlitz Elections",
+        "url": "https://www.co.cowlitz.wa.us/elections",
+        "publisher": "Cowlitz County Auditor",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-lewis-auditor": {
+        "id": "src-lewis-auditor",
+        "name": "Lewis County Auditor — Elections",
+        "short": "Lewis Elections",
+        "url": "https://lewiscountywa.gov/offices/auditor/elections/",
+        "publisher": "Lewis County Auditor",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ballotpedia-wa03": {
+        "id": "src-ballotpedia-wa03",
+        "name": "Ballotpedia — Washington's 3rd Congressional District election, 2026",
+        "short": "Ballotpedia WA-03",
+        "url": "https://ballotpedia.org/Washington%27s_3rd_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-the-columbian": {
+        "id": "src-the-columbian",
+        "name": "The Columbian — Clark County local news",
+        "short": "The Columbian",
+        "url": "https://www.columbian.com/",
+        "publisher": "The Columbian",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Primary local newspaper for Clark County / Vancouver, WA. Covers WA-03 race and local elections."
+      },
+      "src-kvi-news": {
+        "id": "src-kvi-news",
+        "name": "570 KVI — WA-03 race coverage",
+        "short": "KVI",
+        "url": "https://www.kvi.com/",
+        "publisher": "570 KVI",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-opb": {
+        "id": "src-opb",
+        "name": "OPB — Oregon Public Broadcasting (Pacific NW coverage)",
+        "short": "OPB",
+        "url": "https://www.opb.org/",
+        "publisher": "Oregon Public Broadcasting",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-sightline": {
+        "id": "src-sightline",
+        "name": "Sightline Institute — Cascadia voting & elections research",
+        "short": "Sightline",
+        "url": "https://www.sightline.org/",
+        "publisher": "Sightline Institute",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Regional nonpartisan policy institute; published analysis of Watson v. RNC impact on WA mail-ballot grace period."
+      },
+      "src-camas-post-record": {
+        "id": "src-camas-post-record",
+        "name": "Camas-Washougal Post-Record — WA-03 candidate filing coverage",
+        "short": "Post-Record",
+        "url": "https://www.camaspostrecord.com/",
+        "publisher": "Camas-Washougal Post-Record",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-wa03-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-27",
+        "significance": "Last day to register online or by mail for the August 4, 2026 Washington top-two primary (8 days before election day). In-person same-day registration available at county elections offices through 8 p.m. on Election Day.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-voter-registration"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-primary-mail-sent",
+        "milestone": "Vote-by-mail ballots mailed — primary",
+        "electionType": "primary",
+        "date": "2026-07-17",
+        "significance": "County auditors begin mailing ballots to all registered voters (18 days before election day per RCW 29A.40.070). Clark County confirmed ballots mailed by July 17 for the Aug 4 primary. All registered WA voters automatically receive a mail ballot.",
+        "governingAuthority": "Clark County Elections, Cowlitz County Auditor, Lewis County Auditor",
+        "sourceIds": [
+          "src-clark-elections",
+          "src-cowlitz-auditor",
+          "src-lewis-auditor",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-primary-dropbox-open",
+        "milestone": "Ballot drop boxes open — primary",
+        "electionType": "primary",
+        "date": "2026-07-17",
+        "significance": "Drop boxes open statewide beginning 18 days before election day (approximately July 17). Available in Clark, Cowlitz, Lewis, Skamania, Klickitat, Pacific, and Wahkiakum counties through 8 p.m. on August 4.",
+        "governingAuthority": "Clark County Elections, county auditors",
+        "sourceIds": [
+          "src-clark-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-08-04",
+        "significance": "Washington statewide top-two primary. All 9 WA-03 candidates on one ballot; top 2 vote-getters advance regardless of party. Drop boxes and in-person same-day registration close at 8 p.m. Clark County posts unofficial results at clarkvotes.org between 8:15–8:30 p.m. Logic and accuracy test for Clark County tabulation equipment scheduled June 23, 2026.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-clark-elections",
+          "src-ballotpedia-wa03"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-primary-vbm-postmark",
+        "milestone": "Mail ballot postmark deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-04",
+        "significance": "Under current Washington law (RCW 29A.60.050), mail ballots must be postmarked by Election Day (Aug 4) to be counted if received within 20 days after. Subject to change pending Watson v. RNC SCOTUS ruling (expected late June/early July 2026). Drop box return is not subject to postmark requirement.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-primary-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-24",
+        "significance": "Under current WA law (RCW 29A.60.050), ballots postmarked by Election Day (Aug 4) must be received by county auditors within 20 days (by Aug 24) to be counted. This grace period is directly at issue in Watson v. RNC; a ruling against grace periods could require an earlier receipt deadline.",
+        "governingAuthority": "Clark County Elections, county auditors",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-primary-canvass-deadline",
+        "milestone": "County canvass certification deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-25",
+        "significance": "County auditors must complete and certify primary canvass results within 21 days of election day (approximately August 25, 2026). Provisional and late-arriving mail ballots are counted during the canvass period.",
+        "governingAuthority": "Clark County Elections, county auditors",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-26",
+        "significance": "Last day to register online or by mail for the November 3, 2026 general election (8 days before election day per RCW 29A.08.140). In-person same-day registration available at county elections offices through 8 p.m. on Election Day.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-voter-registration",
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-mail-sent",
+        "milestone": "Vote-by-mail ballots mailed — general",
+        "electionType": "general",
+        "date": "2026-10-16",
+        "significance": "County auditors begin mailing ballots to all registered voters approximately 18 days before election day (around October 16, 2026). All registered WA voters automatically receive a mail ballot per RCW 29A.40.070.",
+        "governingAuthority": "Clark County Elections, county auditors",
+        "sourceIds": [
+          "src-clark-elections",
+          "src-cowlitz-auditor",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-dropbox-open",
+        "milestone": "Ballot drop boxes open — general",
+        "electionType": "general",
+        "date": "2026-10-16",
+        "significance": "Drop boxes open statewide approximately 18 days before election day (around October 16). Available in all WA-03 counties through 8 p.m. on November 3. New HB 1750 (eff. June 11, 2026) bars local governments from changing drop box locations in ways that create disparate burden on protected-class voters.",
+        "governingAuthority": "County auditors",
+        "sourceIds": [
+          "src-clark-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-sameday-reg-open",
+        "milestone": "Same-day registration window opens — general",
+        "electionType": "general",
+        "date": "2026-10-27",
+        "significance": "After the standard October 26 registration deadline passes, voters may register in person at county elections offices through 8 p.m. on Election Day (November 3). Their ballot is counted immediately upon registration under WA's same-day registration law (RCW 29A.08.140).",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-voter-registration",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. WA-03: likely Marie Gluesenkamp Perez (D, inc.) vs. John Braun (R) after Aug 4 top-two primary. Drop boxes close at 8 p.m. Same-day registration closes at 8 p.m. at county elections offices.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-ballotpedia-wa03"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-vbm-postmark",
+        "milestone": "Mail ballot postmark deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Under current WA law (RCW 29A.60.050), mail ballots must be postmarked by Election Day (Nov 3) to be counted. Subject to change pending Watson v. RNC SCOTUS ruling. USPS consolidated processing center delays have caused some timely-cast ballots to receive delayed or missing postmarks — voters are encouraged to use drop boxes to avoid postmark ambiguity.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-vbm-receipt-deadline",
+        "milestone": "Mail ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-23",
+        "significance": "Under current WA law (RCW 29A.60.050), ballots postmarked by Election Day (Nov 3) must be received within 20 days (by Nov 23) to be counted. About one-sixth of WA ballots historically arrive after Election Day. This grace period is at issue in Watson v. RNC; a ruling requiring Election Day receipt would move this deadline to Nov 3 and require urgent changes to voter guidance.",
+        "governingAuthority": "Clark County Elections, county auditors",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-canvass-deadline",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "County auditors must complete and certify general election canvass results within 21 days of election day (approximately November 24, 2026). Provisional and late-arriving mail ballots counted during canvass. WA-03 has been decided by fewer than 3,000 votes in 2022 and 2024 — final canvass results are critical.",
+        "governingAuthority": "Clark County Elections, county auditors",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-wa03-general-sos-certification",
+        "milestone": "Secretary of State certification — general",
+        "electionType": "general",
+        "date": "2026-12-03",
+        "significance": "Secretary of State Steve Hobbs certifies official statewide results, including WA-03 general election outcome, approximately 30 days after election day.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-wa-vbm-universal",
+        "topic": "Universal vote-by-mail — all registered voters",
+        "currentRule": "Washington state conducts all elections entirely by mail. Every registered voter automatically receives a mail ballot for every election (no opt-in required). Ballots are mailed beginning 18 days before election day. Established by RCW 29A.40.070.",
+        "status": "active",
+        "whyItMatters": "Every registered voter in WA-03 across all eight counties receives a ballot in the mail. No registration for mail voting is required. In-person voting is available only at drop boxes and county elections offices (not traditional polling places).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.40.070. Washington has conducted all-mail elections since 2011. Clark County confirmed Aug 4 primary ballots mailed by July 17."
+      },
+      {
+        "id": "rule-wa-postmark-grace-period",
+        "topic": "Mail ballot postmark-by-Election-Day grace period",
+        "currentRule": "Under current Washington law (RCW 29A.60.050), mail ballots must be postmarked by Election Day and received by county auditors within 20 days to be counted. This grace period is currently under federal legal challenge in Watson v. RNC (argued before the U.S. Supreme Court March 23, 2026; ruling expected late June/early July 2026).",
+        "status": "watch",
+        "whyItMatters": "About one-sixth of Washington ballots in recent elections arrived after Election Day. A SCOTUS ruling invalidating the grace period would require WA to count only ballots received by Election Day — forcing mid-cycle changes to voter instructions for the Aug 4 primary or Nov 3 general, and potentially disenfranchising voters who mailed ballots on or before Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections",
+          "src-sightline"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.60.050. Watson v. RNC argued March 23, 2026. Ruling expected before end of June 2026 term. See also conf-wa03-001."
+      },
+      {
+        "id": "rule-wa-drop-boxes",
+        "topic": "Official ballot drop boxes",
+        "currentRule": "Drop boxes are available statewide beginning 18 days before each election through 8 p.m. on Election Day. Counties must provide at least one drop box per 15,000 registered voters (RCW 29A.40.160). In Clark County, drop boxes open approximately July 17 for the Aug 4 primary and around October 16 for the Nov 3 general. New HB 1750 (eff. June 11, 2026) bars local governments from removing drop boxes in ways that create disparate burden on protected-class voters.",
+        "status": "active",
+        "whyItMatters": "Drop box return eliminates postmark uncertainty caused by USPS consolidated processing delays. Strongly encouraged over postal mail return in WA-03 given rural geography and documented USPS processing delays affecting timely-postmarked ballots.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-clark-elections",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.40.160. Clark County drop box locations: clark.wa.gov/elections. WA voter portal (myvote.wa.gov) includes a drop box locator."
+      },
+      {
+        "id": "rule-wa-signature-verification",
+        "topic": "Signature verification and cure process",
+        "currentRule": "County auditors compare the signature on returned mail ballot envelopes against the voter's registration signature on file. If a signature is missing or does not match, the county must contact the voter and provide an opportunity to cure the discrepancy. Cure process procedures and contact methods vary by county.",
+        "status": "active",
+        "whyItMatters": "Signature mismatch is the primary cause of challenged ballots in WA-03. Voters in all eight counties who receive a cure notice must respond promptly — failure to cure results in the ballot not being counted.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections",
+          "src-clark-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.60.165. County auditors must attempt to notify voters by mail, phone, or email. Cure deadline is set by the county. Clark County: (564) 397-2345."
+      },
+      {
+        "id": "rule-wa-same-day-registration",
+        "topic": "Same-day voter registration",
+        "currentRule": "Washington allows same-day in-person voter registration at county elections offices through 8 p.m. on Election Day (RCW 29A.08.140). Online and mail registration deadline is 8 days before election day (July 27, 2026 for primary; October 26, 2026 for general). Same-day registrants vote using a regular (non-provisional) ballot.",
+        "status": "active",
+        "whyItMatters": "WA-03 voters who miss the standard registration deadline can still register and vote at any county elections office — including Clark County's office at 1408 Franklin St, Vancouver — through 8 p.m. on election day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-voter-registration",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.08.140. Same-day registrants must provide proof of address and ID at the county elections office. Regular ballot issued, not provisional."
+      },
+      {
+        "id": "rule-wa-top-two-primary",
+        "topic": "Top-two primary system",
+        "currentRule": "Washington uses a nonpartisan top-two primary: all candidates from all parties appear on one ballot, and the top two vote-getters by total votes advance to the general election regardless of party affiliation. There is no separate party primary. For WA-03, all 9 candidates (4 Democrats, 3 Republicans, 1 Cascade Party, 1 independent) compete on the Aug 4, 2026 ballot.",
+        "status": "active",
+        "whyItMatters": "The top-two system means two Republicans or two Democrats could theoretically advance to the WA-03 general. In 2022 and 2024, Gluesenkamp Perez (D) vs. Kent (R) advanced. In 2026, Gluesenkamp Perez (D) and Braun (R) are expected to advance, though Antony Barran (Cascade Party) has generated some prediction market interest.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-ballotpedia-wa03",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Washington Constitution, Article II § 24; RCW 29A.36.170. Adopted via I-872 (2004), upheld by U.S. Supreme Court in Washington State Grange v. Washington State Republican Party (2008)."
+      },
+      {
+        "id": "rule-wa-id-requirements",
+        "topic": "Voter ID requirements",
+        "currentRule": "Washington does not require voters to show photo ID to vote. First-time voters who registered by mail without providing a driver license number, state ID number, or last four digits of SSN must include a copy of an acceptable ID with their first ballot. Acceptable documents: photo ID, utility bill, bank statement, government document with name and address.",
+        "status": "active",
+        "whyItMatters": "Most WA-03 voters — including first-time in-person registrants under same-day registration — do not need photo ID to cast a ballot. First-time registrants by mail who omitted ID may need to include documentation with their ballot envelope.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.08.113; 52 U.S.C. § 21083 (HAVA). ID requirement applies to certain first-time mail registrants. In-person same-day registrants must show proof of address."
+      },
+      {
+        "id": "rule-wa-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "A provisional ballot is issued when a voter's eligibility cannot be immediately confirmed — for example, if the voter's record shows a mail ballot already issued but the voter appears at the elections office to vote in person, or if registration cannot be verified. Provisional ballots are counted after eligibility is verified during the canvass.",
+        "status": "active",
+        "whyItMatters": "WA-03 provisional ballots from rural counties (Lewis, Skamania, Klickitat, Wahkiakum, Pacific) may not be tallied until the 21-day canvass concludes. In close races like WA-03 (margin under 3,000 in 2022 and 2024), provisional ballot counts can affect the outcome.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.60.170. Voters can check provisional ballot status at myvote.wa.gov."
+      },
+      {
+        "id": "rule-wa-voter-registration-challenge",
+        "topic": "Voter registration challenge process (HB 1916)",
+        "currentRule": "Effective June 11, 2026, HB 1916 tightens Washington's voter registration challenge process. Filing a false or frivolous challenge is now a gross misdemeanor. Challenges must be supported by sworn personal knowledge and face heightened scrutiny before county canvassing boards act on them.",
+        "status": "active",
+        "whyItMatters": "Frivolous voter roll challenge campaigns — organized third-party attempts to mass-challenge registrations before an election — are now subject to criminal penalty in Washington. This directly affects WA-03's large mail-ballot electorate.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "HB 1916 (eff. June 11, 2026). Amends RCW 29A.08.810–.840. See also OPB coverage of new WA voting laws."
+      },
+      {
+        "id": "rule-wa-voting-rights-act-preclearance",
+        "topic": "Washington Voting Rights Act — preclearance (HB 1710) and disparate burden (HB 1750)",
+        "currentRule": "Effective June 11, 2026: HB 1710 creates a preclearance process requiring certain jurisdictions with a history of voting discrimination to obtain Washington Attorney General approval before changing voting systems, including method of election or district boundaries. HB 1750 bars local governments from imposing election policies that create a 'material disparate burden' on protected-class voters, including changes to ballot drop box locations.",
+        "status": "active",
+        "whyItMatters": "New state-level voting rights protections directly affect WA-03's infrastructure. Any county in the district with a discrimination history must pre-clear changes to voting systems. Drop box location reductions that disproportionately affect minority communities in WA-03 are now subject to challenge under HB 1750.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-wa-rcw-29a"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "HB 1710 and HB 1750 (both eff. June 11, 2026). Passed in response to U.S. Supreme Court having narrowed the federal Voting Rights Act."
+      },
+      {
+        "id": "rule-wa-usps-eo14399",
+        "topic": "USPS proposed rule / EO 14399 — voter list requirement for mail ballot delivery",
+        "currentRule": "A USPS proposed rule implementing Trump Executive Order 14399 would require states to submit voter registration lists to USPS before the Postal Service delivers mail ballots. Washington Secretary of State Steve Hobbs has opposed the rule as 'federal overreach.' A coalition of 23 states including Washington sued to block it on June 10, 2026. Public comment period closed July 2, 2026.",
+        "status": "watch",
+        "whyItMatters": "If implemented, voters removed from the USPS-approved list could not receive ballots by mail — directly threatening WA-03's all-mail election system. About one-third of WA-03 voters return ballots by mail (versus drop box). The federal appeals court expedited the challenge on June 11, 2026.",
+        "governingLevel": "federal",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-ballotpedia-wa03"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "EO 14399 (issued 2025). USPS NPRM public comment deadline July 2, 2026. 23-state lawsuit filed June 10, 2026. Democracy Docket: https://www.democracydocket.com/news-alerts/in-hopeful-sign-for-mail-in-voting-court-fast-tracks-bid-to-block-trump-order/"
+      },
+      {
+        "id": "rule-wa-canvass-timeline",
+        "topic": "Canvass and certification timeline",
+        "currentRule": "Washington county auditors must complete the official canvass within 21 days of election day and certify results to the Secretary of State. For the 2026 primary (Aug 4): canvass by approximately Aug 25. For the general (Nov 3): canvass by approximately Nov 24; SOS certification by approximately Dec 3.",
+        "status": "active",
+        "whyItMatters": "WA-03 results in 2022 and 2024 were not fully determined on election night. The 21-day canvass is critical in close races as late-arriving mail ballots and provisional ballots are tallied. The Watson v. RNC ruling could alter the receipt deadline and therefore which ballots are included in the canvass.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "RCW 29A.60.250. 21-day canvass deadline. SOS certification follows county certification."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-wa-sos-elections",
+        "label": "Washington Secretary of State — Elections portal",
+        "url": "https://www.sos.wa.gov/elections",
+        "description": "Official Washington elections hub: voter registration, election calendar, candidate information, results, county auditor contacts, and voting rules. Authoritative source for WA-03 election deadlines and procedures.",
+        "governingAuthority": "Washington Secretary of State (Steve Hobbs)",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-wa-myvote",
+        "label": "myvote.wa.gov — Washington voter portal",
+        "url": "https://myvote.wa.gov",
+        "description": "Register to vote, update your registration, track your ballot, find drop box locations, check election results, and verify your registration status. Available in multiple languages. Online registration deadline: July 27, 2026 (primary); October 26, 2026 (general).",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-voter-registration",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-wa-ballot-tracker",
+        "label": "Where's My Ballot? — Washington ballot tracking",
+        "url": "https://myvote.wa.gov/en-us/TrackMyBallot",
+        "description": "Track your mail ballot in real time: when it was mailed, when your county received it, and when it was counted. Sign up for email or text notifications. Available for both the August 4 primary and November 3 general election.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-ballot-tracker",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-clark-elections",
+        "label": "Clark County Elections (clarkvotes.org)",
+        "url": "https://clark.wa.gov/elections",
+        "description": "Official elections page for Clark County voters (Vancouver, Camas, Battle Ground area) — the largest county in WA-03. Drop box locations, ballot tracking, election results, logic and accuracy test schedule. Phone: (564) 397-2345. Address: 1408 Franklin St, Vancouver.",
+        "governingAuthority": "Clark County Elections Office",
+        "sourceType": "official-county",
+        "sourceId": "src-clark-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-cowlitz-elections",
+        "label": "Cowlitz County Auditor — Elections",
+        "url": "https://www.co.cowlitz.wa.us/elections",
+        "description": "Official elections page for Cowlitz County voters (Longview, Kelso area). Ballot information, drop box locations, and election results. Phone: (360) 577-3005.",
+        "governingAuthority": "Cowlitz County Auditor",
+        "sourceType": "official-county",
+        "sourceId": "src-cowlitz-auditor",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-lewis-elections",
+        "label": "Lewis County Auditor — Elections",
+        "url": "https://lewiscountywa.gov/offices/auditor/elections/",
+        "description": "Official elections page for Lewis County voters (Centralia, Chehalis area). Ballot information, drop box locations, voter registration, and election results.",
+        "governingAuthority": "Lewis County Auditor",
+        "sourceType": "official-county",
+        "sourceId": "src-lewis-auditor",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-wa03",
+        "label": "Ballotpedia — WA-03 2026 election",
+        "url": "https://ballotpedia.org/Washington%27s_3rd_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference page for WA-03's 2026 election: candidate profiles, primary date, race ratings (Cook: Toss Up; Inside Elections: Toss Up), campaign finance summary, and election history.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-wa03",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-wa-federal-impacts",
+        "label": "WA SOS — Federal Impacts on Washington Elections page",
+        "url": "https://www.sos.wa.gov/elections/federal-impacts",
+        "description": "Washington Secretary of State's dedicated page tracking federal executive orders, USPS rule changes, and SCOTUS cases (including Watson v. RNC) affecting Washington elections. Updated as developments occur.",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-sos-elections",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-wa03-001",
+        "title": "WA-03 dashboard initialized — 13 sources, 16 events, 12 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. All 13 sources (WA SOS, Clark/Cowlitz/Lewis county auditors, Ballotpedia, The Columbian, KVI, OPB, Sightline, Camas Post-Record) verified reachable. All 16 election events and 12 voting rules researched from WA SOS, RCW Title 29A, and county auditor sites, but all marked needsReview/unconfirmed pending authoritative confirmation from each county elections office. Candidates: Marie Gluesenkamp Perez (D, inc.) vs. John Braun (R) are frontrunners; 9 candidates total in top-two primary on August 4, 2026.",
+        "sourceIds": [
+          "src-wa-sos-elections",
+          "src-clark-elections",
+          "src-cowlitz-auditor",
+          "src-lewis-auditor"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-wa03-002",
+        "title": "Watson v. RNC SCOTUS ruling pending — WA-03 postmark grace period at risk",
+        "fieldChanged": "Ballot receipt rules",
+        "oldValue": "RCW 29A.60.050: ballots postmarked by Election Day, received within 20 days, are counted.",
+        "newValue": "Watson v. RNC argued before the U.S. Supreme Court March 23, 2026. Ruling expected late June/early July 2026. If the Court rules that federal Election Day statutes require receipt by Election Day, Washington's 20-day grace period for federal races would be unconstitutional, requiring immediate changes to voter guidance and potentially affecting the Aug 4 primary. About 1/6 of WA ballots arrive after Election Day. Separate USPS/EO 14399 rule is also under legal challenge (23-state suit filed June 10, 2026).",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections",
+          "src-sightline"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-wa03-003",
+        "title": "All rules and event dates flagged for county-level verification",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "12 voting rules and 16 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-11). Verify with Clark, Cowlitz, and Lewis county auditors before publish. Note Watson v. RNC ruling (expected June/July 2026) may require updates to receipt deadline events and postmark-related rules before publication.",
+        "sourceIds": [
+          "src-wa-rcw-29a",
+          "src-wa-sos-elections"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-wa03-001",
+        "factInQuestion": "Whether Washington state may continue to count mail ballots postmarked by Election Day but received up to 20 days afterward — a practice used for all WA-03 elections across all eight counties — or whether federal law under Watson v. RNC requires all ballots to be in election officials' hands by Election Day itself.",
+        "sourceAId": "src-wa-rcw-29a",
+        "sourceAClaim": "RCW 29A.60.050 and current Washington practice: ballots postmarked by Election Day and received within 20 days are counted for federal and state races. Washington Secretary of State Steve Hobbs and 22 other states argue this is a valid state administration of elections protected by the U.S. Constitution's Elections Clause (Art. I § 4), which assigns time/place/manner of elections to the states. Roughly one-sixth of Washington ballots arrive after Election Day, including a significant share of rural WA-03 ballots from Skamania, Wahkiakum, and Pacific counties. Washington voters returned approximately 33% of 2024 ballots by postal mail vs. 67% by drop box, meaning tens of thousands of WA-03 ballots rely on the postmark grace period each election. (Sources: Sightline Institute, https://www.sightline.org/2026/05/28/how-threats-to-voting-by-mail-could-affect-cascadia/; Bipartisan Policy Center, https://bipartisanpolicy.org/article/what-could-the-supreme-courts-decision-in-watson-v-rnc-mean-for-mail-voting/)",
+        "sourceBId": "src-wa-sos-elections",
+        "sourceBClaim": "The Republican National Committee and Trump administration argue in Watson v. Republican National Committee (argued before the Supreme Court March 23, 2026; decision expected by late June/early July 2026) that federal Election Day statutes (3 U.S.C. §§ 1, 21) require ballots to be received by election officials by Election Day, not merely postmarked by then. A majority of justices appeared skeptical of extended receipt deadlines during oral argument per reporting. If the Court rules against grace periods, WA's 20-day post-Election Day receipt window for federal races would be unconstitutional, requiring the state to change voter instructions — potentially on very short notice before the Aug 4 primary or Nov 3 general. USPS consolidated processing centers in 2025 have also caused delayed or missing postmarks on some timely-cast ballots. Separately, EO 14399 / USPS proposed rule (22 states sued June 10, 2026) could disrupt ballot delivery for voters whose names are not on USPS-approved lists. (Sources: Sightline Institute, https://www.sightline.org/2026/05/28/how-threats-to-voting-by-mail-could-affect-cascadia/; Democracy Docket, https://www.democracydocket.com/news-alerts/in-hopeful-sign-for-mail-in-voting-court-fast-tracks-bid-to-block-trump-order/)",
+        "whyItMatters": "WA-03 has been decided by fewer than 3,000 votes in each of the last two cycles (2022 and 2024). A mid-cycle change to ballot receipt rules for federal races — with ballots already mailed to voters and drop box signage in place — could confuse WA-03 voters across Clark, Cowlitz, Lewis, and the district's other rural counties about whether mailing their ballot on or near Election Day will count. The intersection of the Watson ruling, USPS postmark delays from consolidated processing centers, and the USPS/EO 14399 voter-list rule creates layered, unresolved procedural uncertainty for both the August 4, 2026 primary and the November 3, 2026 general election in WA-03.",
+        "suggestedReviewAction": "Monitor Watson v. RNC SCOTUS ruling (expected late June/early July 2026). If the Court requires Election Day receipt, immediately update: (1) evt-wa03-primary-vbm-receipt-deadline and evt-wa03-general-vbm-receipt-deadline dates from 20 days post-election to Election Day; (2) rule-wa-postmark-grace-period from 'watch' to 'inactive' and add updated rule; (3) voter-facing resources to reflect the changed deadline. Confirm with Clark County Elections and WA SOS how new instructions will be communicated to voters whose ballots are already in the mail. Separately track EO 14399 USPS rule lawsuit outcome.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T19:45:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-wa03-001",
+        "headline": "Washington Secretary of State Response to USPS Proposed Rule on Ballot Mail",
+        "sourceName": "Washington Secretary of State (Office of Steve Hobbs) via Shoreline Area News",
+        "url": "https://www.shorelineareanews.com/2026/05/washington-secretary-of-state-response.html",
+        "publishedAt": "2026-05-30",
+        "relevanceSummary": "Secretary of State Steve Hobbs issued a formal statement opposing a U.S. Postal Service proposed rule, aligned with Trump Executive Order 14399, that could restrict USPS delivery of mail ballots to states that do not hand over their voter registration lists. Hobbs called the rule 'unnecessary' and 'federal overreach' that threatens voters' rights, noting Washington's all-mail ballot system would be directly affected. The public comment period on the proposed rule ran through July 2, 2026, and the OSOS pledged to post updates to its Federal Impacts on Washington State Elections page.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-002",
+        "headline": "23 States Including Washington Sue Over USPS Rule Requiring Voter Lists for Mail Ballot Delivery",
+        "sourceName": "KIRO 7 / Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/wa-sues-over-rule-requiring-175536388.html",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "A coalition of 23 states and the District of Columbia, including Washington, filed suit to block the USPS proposed regulation implementing Trump Executive Order 14399, which would require states to submit voter registration lists before the Postal Service delivers mail-in ballots. Washington Secretary of State Steve Hobbs said the rule is 'unwarranted' and represents unconstitutional federal interference in state-administered elections. The regulation directly threatens WA-03 voters, as Washington conducts all elections by mail-ballot and roughly one-third of voters use the postal service to return ballots.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-003",
+        "headline": "Clark County Elections Schedules Logic and Accuracy Tests for August 4 Primary",
+        "sourceName": "Clark County Elections (clark.wa.gov)",
+        "url": "https://clark.wa.gov/elections/august-primary-and-special-election-logic-and-accuracy-tests-scheduled-june-23-2026",
+        "publishedAt": "2026-06-11",
+        "relevanceSummary": "The Clark County Elections Office announced that logic and accuracy tests for ballot tabulation equipment used in the August 4, 2026 Primary and Special Election are scheduled for June 23, 2026, at 9:30 a.m. at the Elections Office, 1408 Franklin St., Vancouver. The public, media, and candidates are invited to observe, as required by Washington state law. Clark County—the largest county in WA-03—will mail ballots to all registered voters by July 17, with unofficial results posted between 8:15–8:30 p.m. on election night at clarkvotes.org.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-004",
+        "headline": "August Primary Set as 315 Candidates File for Run; WA-03 Most Contested Race",
+        "sourceName": "Camas-Washougal Post-Record",
+        "url": "https://www.camaspostrecord.com/news/2026/may/14/august-primary-election-set-as-315-candidates-file-for-run/",
+        "publishedAt": "2026-05-14",
+        "relevanceSummary": "With candidate filing closed, Washington's 3rd Congressional District emerged as the most contested race in the state, featuring nine candidates including Democratic incumbent Rep. Marie Gluesenkamp Perez and Republican challenger John Braun, the state Senate Minority Leader. Other declared candidates include Democratic challengers Brent Hennrich, Austin Braswell, and Troy Rasband; Republicans Lawrence Kellogg and John P. Roco; independent John Saulie-Rohman; and Cascade Party candidate Antony Barran. The top-two primary on August 4 will advance the two highest vote-getters to the November 3 general election regardless of party.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-005",
+        "headline": "WA-03 Moves to 'Toss Up' as John Braun Surges and Rep. Perez Faces Mounting Backlash",
+        "sourceName": "570 KVI (citing Inside Elections and Cook Political Report)",
+        "url": "https://www.kvi.com/2026/05/27/wa-03-moved-to-toss-up-as-braun-surges-and-perez-faces-mounting-backlash/",
+        "publishedAt": "2026-05-27",
+        "relevanceSummary": "Inside Elections shifted its rating for Washington's 3rd Congressional District from 'Tilt Democratic' to 'Toss Up', with Cook Political Report already rating the race a 'Toss Up'. A co/efficient poll showed Republican John Braun leading incumbent Marie Gluesenkamp Perez 41%–34% in a hypothetical general election matchup, with Perez's favorability underwater at 50% unfavorable. The district, which carries a Cook PVI of R+2 and where Trump beat Harris by three points in 2024, is now considered one of the most competitive House races in the West heading into the August 4 top-two primary.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-006",
+        "headline": "New Washington Voting Rights Act Laws Take Effect, Adding Preclearance and Ballot-Box Protections",
+        "sourceName": "OPB",
+        "url": "https://www.opb.org/article/2026/06/11/new-washington-state-laws-take-effect-thursday/",
+        "publishedAt": "2026-06-11",
+        "relevanceSummary": "Two new Washington state laws—HB 1710 and HB 1750—took effect June 11, 2026, significantly expanding the Washington Voting Rights Act in response to the U.S. Supreme Court having gutted the federal VRA. HB 1710 creates a preclearance process requiring jurisdictions with a history of voting discrimination to get state Attorney General approval before changing voting systems, including method of election and district boundaries. HB 1750 bars local governments from imposing election policies that create a 'material disparate burden' on protected-class voters, including changes to ballot drop box locations—directly relevant to WA-03's all-mail voting infrastructure across eight counties.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-wa-03-initial",
+      "startedAt": "2026-06-11T19:00:00Z",
+      "completedAt": "2026-06-11T19:45:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 13,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. All 13 sources verified. WA-03 top-two primary (Aug 4, 2026) is upcoming: 9 candidates filed, with Marie Gluesenkamp Perez (D, inc.) and John Braun (R, WA Senate Minority Leader) as frontrunners. Joe Kent (former 2022/2024 opponent) declined — was NCTC Director, resigned March 2026. Cook Political Report and Inside Elections both rate race Toss Up; co/efficient poll shows Braun +7 (41–34%). Major procedural conflict: Watson v. RNC SCOTUS case (argued March 23, 2026; ruling expected late June/early July) could invalidate WA's 20-day post-Election Day ballot receipt grace period. Separate EO 14399 / USPS rule under 23-state legal challenge. All 16 election events and 12 voting rules marked needsReview/unconfirmed pending county-level verification."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-wa03-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 13,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 28,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. WA-03 dashboard created ahead of August 4 top-two primary. Nine candidates in the race: Gluesenkamp Perez (D, inc.), Braun (R), Hennrich (D), Braswell (D), Rasband (D), Kellogg (R), Roco (R), Barran (Cascade), Saulie-Rohman (Ind.). Joe Kent declined (NCTC Director, resigned March 2026). Critical unresolved conflict: Watson v. RNC SCOTUS (ruling expected late June/early July) may invalidate WA's 20-day ballot receipt grace period. General election timeline covers registration (Oct 26), mail ballot mailing (~Oct 16), drop boxes open (~Oct 16), Election Day (Nov 3), VBM receipt deadline (~Nov 23 under current law), county canvass (~Nov 24), SOS certification (~Dec 3). All 13 sources verified. All 16 events and 12 rules flagged needsReview pending county-specific 2026 confirmation.",
+      "generatedAt": "2026-06-11T19:45:00Z"
+    }
+  }
+}
