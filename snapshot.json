@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-11",
-  "updatedAt": "2026-06-11T19:45:00Z",
-  "exportedAt": "2026-07-01T05:41:03.563Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:58:21.969Z",
+  "exportedAt": "2026-07-01T20:04:56.229Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -494,7 +494,7 @@
       {
         "id": "rule-wa-postmark-grace-period",
         "topic": "Mail ballot postmark-by-Election-Day grace period",
-        "currentRule": "Under current Washington law (RCW 29A.60.050), mail ballots must be postmarked by Election Day and received by county auditors within 20 days to be counted. This grace period is currently under federal legal challenge in Watson v. RNC (argued before the U.S. Supreme Court March 23, 2026; ruling expected late June/early July 2026).",
+        "currentRule": "Under Washington law, mail ballots must be postmarked no later than Election Day to be counted. County elections offices may accept ballots received after Election Day if the ballot was postmarked on or before Election Day; the recent U.S. Supreme Court ruling \"means there will be no change to Washington's ballot acceptance deadline.\"",
         "status": "watch",
         "whyItMatters": "About one-sixth of Washington ballots in recent elections arrived after Election Day. A SCOTUS ruling invalidating the grace period would require WA to count only ballots received by Election Day — forcing mid-cycle changes to voter instructions for the Aug 4 primary or Nov 3 general, and potentially disenfranchising voters who mailed ballots on or before Election Day.",
         "governingLevel": "statewide",
@@ -642,7 +642,7 @@
       {
         "id": "rule-wa-usps-eo14399",
         "topic": "USPS proposed rule / EO 14399 — voter list requirement for mail ballot delivery",
-        "currentRule": "A USPS proposed rule implementing Trump Executive Order 14399 would require states to submit voter registration lists to USPS before the Postal Service delivers mail ballots. Washington Secretary of State Steve Hobbs has opposed the rule as 'federal overreach.' A coalition of 23 states including Washington sued to block it on June 10, 2026. Public comment period closed July 2, 2026.",
+        "currentRule": "On May 29, 2026, the U.S. Postal Service released a proposed rule for handling ballot mail in federal elections in alignment with Executive Order 14399. Washington Secretary of State Steve Hobbs has formally opposed the proposed rule as federal overreach in public comments submitted to USPS, stating that it would undermine Washington’s proven vote-by-mail system and burden state and local election administrators. Litigation involving multiple states is ongoing; Washington is monitoring and participating as appropriate. The USPS rule is proposed only and has not been implemented, and Washington voters will continue to receive and return ballots under existing state law and procedures.",
         "status": "watch",
         "whyItMatters": "If implemented, voters removed from the USPS-approved list could not receive ballots by mail — directly threatening WA-03's all-mail election system. About one-third of WA-03 voters return ballots by mail (versus drop box). The federal appeals court expedited the challenge on June 11, 2026.",
         "governingLevel": "federal",
@@ -882,17 +882,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-11-wa-03-initial",
-      "startedAt": "2026-06-11T19:00:00Z",
-      "completedAt": "2026-06-11T19:45:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 13,
-      "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "id": "run-2026-07-01-wa03-auto",
+      "startedAt": "2026-07-01T19:57:36.830Z",
+      "completedAt": "2026-07-01T19:58:21.969Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 15,
+      "updatesCreated": 2,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 11, 2026. All 13 sources verified. WA-03 top-two primary (Aug 4, 2026) is upcoming: 9 candidates filed, with Marie Gluesenkamp Perez (D, inc.) and John Braun (R, WA Senate Minority Leader) as frontrunners. Joe Kent (former 2022/2024 opponent) declined — was NCTC Director, resigned March 2026. Cook Political Report and Inside Elections both rate race Toss Up; co/efficient poll shows Braun +7 (41–34%). Major procedural conflict: Watson v. RNC SCOTUS case (argued March 23, 2026; ruling expected late June/early July) could invalidate WA's 20-day post-Election Day ballot receipt grace period. Separate EO 14399 / USPS rule under 23-state legal challenge. All 16 election events and 12 voting rules marked needsReview/unconfirmed pending county-level verification."
+      "summary": "Automated refresh completed 2026-07-01 for WA-03. Sources checked: 15. LLM verifications: 11. 2 rule/source content changes + 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:58:21.969Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
