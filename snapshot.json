@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:58:21.969Z",
-  "exportedAt": "2026-07-01T20:04:56.229Z",
+  "exportedAt": "2026-07-02T04:27:00.952Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -409,8 +409,8 @@
           "src-wa-sos-elections",
           "src-ballotpedia-wa03"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -488,7 +488,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "RCW 29A.40.070. Washington has conducted all-mail elections since 2011. Clark County confirmed Aug 4 primary ballots mailed by July 17."
       },
       {
