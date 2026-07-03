@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-01",
-  "updatedAt": "2026-07-01T19:58:21.969Z",
-  "exportedAt": "2026-07-03T00:05:04.002Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:33:57.781Z",
+  "exportedAt": "2026-07-03T00:38:50.825Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -882,17 +882,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-01-wa03-auto",
-      "startedAt": "2026-07-01T19:57:36.830Z",
-      "completedAt": "2026-07-01T19:58:21.969Z",
+      "id": "run-2026-07-03-wa03-auto",
+      "startedAt": "2026-07-03T00:32:59.545Z",
+      "completedAt": "2026-07-03T00:33:57.781Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 2,
+      "sourcesChecked": 17,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-01 for WA-03. Sources checked: 15. LLM verifications: 11. 2 rule/source content changes + 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for WA-03. Sources checked: 17. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-08T19:58:21.969Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:33:57.781Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
