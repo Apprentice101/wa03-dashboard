@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:33:57.781Z",
-  "exportedAt": "2026-07-03T00:38:50.825Z",
+  "updatedAt": "2026-07-03T01:37:42.967Z",
+  "exportedAt": "2026-07-03T01:44:20.665Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -879,20 +879,60 @@
         "relevanceSummary": "Two new Washington state laws—HB 1710 and HB 1750—took effect June 11, 2026, significantly expanding the Washington Voting Rights Act in response to the U.S. Supreme Court having gutted the federal VRA. HB 1710 creates a preclearance process requiring jurisdictions with a history of voting discrimination to get state Attorney General approval before changing voting systems, including method of election and district boundaries. HB 1750 bars local governments from imposing election policies that create a 'material disparate burden' on protected-class voters, including changes to ballot drop box locations—directly relevant to WA-03's all-mail voting infrastructure across eight counties.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-02wi0lx",
+        "headline": "Federal judge blocks mail-in voting rule in Washington state",
+        "sourceName": "The Olympian",
+        "url": "https://www.theolympian.com/news/local/article316290571.html",
+        "publishedAt": "2026-07-03",
+        "relevanceSummary": "A federal judge blocked implementation of a federal mail-voting rule in Washington, preventing USPS from enforcing new ballot-transmittal restrictions in plaintiff states including Washington. That matters to WA-03 voters because Washington relies heavily on vote-by-mail and the ruling preserves current mail ballot handling for federal elections.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0pb0jg4",
+        "headline": "This morning's Supreme Court decision on counting mail-in ballots ...",
+        "sourceName": "Washington State Attorney General",
+        "url": "https://www.facebook.com/WAStateAttorneyGeneral/posts/this-mornings-supreme-court-decision-on-counting-mail-in-ballots-is-a-good-oppor/1457182236450412/",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "The Washington Attorney General’s office highlighted the Supreme Court ruling on counting mail ballots received after Election Day when timely postmarked. That is relevant to WA-03 voters because it confirms the statewide mail-ballot procedure they use for federal elections.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-04sxtcp",
+        "headline": "WA Secretary of State calls Supreme Court mail-in ballot ruling a ...",
+        "sourceName": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lwgsZeDaXMQ",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "Secretary of State Steve Hobbs explains that Washington can continue counting ballots that arrive after Election Day if they were postmarked on time. The remarks also advise voters to mail ballots early and use drop boxes about a week before Election Day, which is directly relevant to WA-03 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0wrud3y",
+        "headline": "News - Washington Secretary of State",
+        "sourceName": "Washington Secretary of State",
+        "url": "https://www.sos.wa.gov/about-office/news",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "The Washington Secretary of State posted guidance after the U.S. Supreme Court ruled that ballots received after Election Day may still be counted if postmarked on or before Election Day. That affects WA-03 voters because Washington is a vote-by-mail state and the ruling reinforces the timing rules voters need to follow for mail ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-wa03-auto",
-      "startedAt": "2026-07-03T00:32:59.545Z",
-      "completedAt": "2026-07-03T00:33:57.781Z",
+      "startedAt": "2026-07-03T01:37:06.143Z",
+      "completedAt": "2026-07-03T01:37:42.967Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
-      "updatesCreated": 0,
+      "sourcesChecked": 14,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for WA-03. Sources checked: 17. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for WA-03. Sources checked: 14. LLM verifications: 10. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:33:57.781Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:37:42.967Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
