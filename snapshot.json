@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:26:22.497Z",
-  "exportedAt": "2026-07-08T06:30:20.579Z",
+  "updatedAt": "2026-07-08T19:39:10.684Z",
+  "exportedAt": "2026-07-08T19:45:06.910Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-08",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -923,16 +923,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-wa03-auto",
-      "startedAt": "2026-07-08T06:26:18.144Z",
-      "completedAt": "2026-07-08T06:26:22.497Z",
+      "startedAt": "2026-07-08T19:39:06.815Z",
+      "completedAt": "2026-07-08T19:39:10.684Z",
       "triggerType": "scheduled",
       "sourcesChecked": 21,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for WA-03. Sources checked: 21. LLM verifications: 18. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for WA-03. Sources checked: 21. LLM verifications: 17. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:26:22.497Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:39:10.684Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
