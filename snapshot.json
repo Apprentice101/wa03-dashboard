@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:39:10.684Z",
-  "exportedAt": "2026-07-08T20:37:05.322Z",
+  "exportedAt": "2026-07-09T17:05:48.865Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -674,70 +674,80 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-wa-sos-elections",
-        "label": "Washington Secretary of State — Elections portal",
-        "url": "https://www.sos.wa.gov/elections",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Washington elections hub: voter registration, election calendar, candidate information, results, county auditor contacts, and voting rules. Authoritative source for WA-03 election deadlines and procedures.",
+        "url": "https://www.sos.wa.gov/elections",
         "governingAuthority": "Washington Secretary of State (Steve Hobbs)",
         "sourceType": "official-state",
         "sourceId": "src-wa-sos-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-wa-myvote",
-        "label": "myvote.wa.gov — Washington voter portal",
-        "url": "https://myvote.wa.gov",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Washington voter portal — find ballot drop boxes and voting centers.",
+        "url": "https://voter.votewa.gov/",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-sos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
         "description": "Register to vote, update your registration, track your ballot, find drop box locations, check election results, and verify your registration status. Available in multiple languages. Online registration deadline: July 27, 2026 (primary); October 26, 2026 (general).",
+        "url": "https://myvote.wa.gov",
         "governingAuthority": "Washington Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-wa-voter-registration",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-wa-ballot-tracker",
-        "label": "Where's My Ballot? — Washington ballot tracking",
-        "url": "https://myvote.wa.gov/en-us/TrackMyBallot",
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Register to vote, update your registration, track your ballot, find drop box locations, check election results, and verify your registration status. Available in multiple languages. Online registration deadline: July 27, 2026 (primary); October 26, 2026 (general).",
+        "url": "https://myvote.wa.gov",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-voter-registration",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Register to vote, update your registration, track your ballot, find drop box locations, check election results, and verify your registration status. Available in multiple languages. Online registration deadline: July 27, 2026 (primary); October 26, 2026 (general).",
+        "url": "https://myvote.wa.gov",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-voter-registration",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-verify",
+        "label": "Verify ballot was counted",
         "description": "Track your mail ballot in real time: when it was mailed, when your county received it, and when it was counted. Sign up for email or text notifications. Available for both the August 4 primary and November 3 general election.",
+        "url": "https://myvote.wa.gov/en-us/TrackMyBallot",
         "governingAuthority": "Washington Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-wa-ballot-tracker",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-clark-elections",
-        "label": "Clark County Elections (clarkvotes.org)",
-        "url": "https://clark.wa.gov/elections",
-        "description": "Official elections page for Clark County voters (Vancouver, Camas, Battle Ground area) — the largest county in WA-03. Drop box locations, ballot tracking, election results, logic and accuracy test schedule. Phone: (564) 397-2345. Address: 1408 Franklin St, Vancouver.",
-        "governingAuthority": "Clark County Elections Office",
-        "sourceType": "official-county",
-        "sourceId": "src-clark-elections",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-cowlitz-elections",
-        "label": "Cowlitz County Auditor — Elections",
-        "url": "https://www.co.cowlitz.wa.us/elections",
-        "description": "Official elections page for Cowlitz County voters (Longview, Kelso area). Ballot information, drop box locations, and election results. Phone: (360) 577-3005.",
-        "governingAuthority": "Cowlitz County Auditor",
-        "sourceType": "official-county",
-        "sourceId": "src-cowlitz-auditor",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-lewis-elections",
-        "label": "Lewis County Auditor — Elections",
-        "url": "https://lewiscountywa.gov/offices/auditor/elections/",
-        "description": "Official elections page for Lewis County voters (Centralia, Chehalis area). Ballot information, drop box locations, voter registration, and election results.",
-        "governingAuthority": "Lewis County Auditor",
-        "sourceType": "official-county",
-        "sourceId": "src-lewis-auditor",
-        "lastVerified": "2026-06-11"
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Washington statewide election results.",
+        "url": "https://results.vote.wa.gov/",
+        "governingAuthority": "Washington Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-wa-sos",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-ballotpedia-wa03",
         "label": "Ballotpedia — WA-03 2026 election",
-        "url": "https://ballotpedia.org/Washington%27s_3rd_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for WA-03's 2026 election: candidate profiles, primary date, race ratings (Cook: Toss Up; Inside Elections: Toss Up), campaign finance summary, and election history.",
+        "url": "https://ballotpedia.org/Washington%27s_3rd_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-wa03",
@@ -746,8 +756,8 @@
       {
         "id": "res-wa-federal-impacts",
         "label": "WA SOS — Federal Impacts on Washington Elections page",
-        "url": "https://www.sos.wa.gov/elections/federal-impacts",
         "description": "Washington Secretary of State's dedicated page tracking federal executive orders, USPS rule changes, and SCOTUS cases (including Watson v. RNC) affecting Washington elections. Updated as developments occur.",
+        "url": "https://www.sos.wa.gov/elections/federal-impacts",
         "governingAuthority": "Washington Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-wa-sos-elections",
