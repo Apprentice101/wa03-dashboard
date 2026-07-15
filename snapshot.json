@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:39:10.684Z",
-  "exportedAt": "2026-07-09T17:05:48.865Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:35:49.670Z",
+  "exportedAt": "2026-07-15T06:42:19.234Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -929,20 +929,90 @@
         "relevanceSummary": "The Washington Secretary of State posted guidance after the U.S. Supreme Court ruled that ballots received after Election Day may still be counted if postmarked on or before Election Day. That affects WA-03 voters because Washington is a vote-by-mail state and the ruling reinforces the timing rules voters need to follow for mail ballots.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0ue6hb1",
+        "headline": "‘Why make it harder to vote?': Gee, Ursula weigh in after 3 WA jurisdictions placed under state voting oversight",
+        "sourceName": "MyNorthwest",
+        "url": "https://mynorthwest.com/kiro-opinion/wa-vote-rules/4255236",
+        "publishedAt": "2026-07-08",
+        "relevanceSummary": "This report says Yakima County, the City of Yakima, and Pasco must now get permission from the state before changing certain election rules because of prior findings that their systems diluted Latino ভোটing power. WA-03 voters are directly affected by statewide voting-rights enforcement and county election procedures that can shape registration, ballot handling, and polling logistics.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0xn0egu",
+        "headline": "These 3 WA communities now need state approval for election rule changes",
+        "sourceName": "The Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2026/jul/08/these-3-wa-communities-now-need-state-approval-for/",
+        "publishedAt": "2026-07-08",
+        "relevanceSummary": "Washington’s new preclearance regime now requires Yakima County, the City of Yakima, and Pasco to get state Attorney General approval before changing certain election rules. That matters to WA-03 voters because Washington election law and county-level procedures can affect ballot access and election administration across the state, and Yakima County is directly in-district or adjacent to voters who may be impacted by rule changes.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0xvgis3",
+        "headline": "WA breathes sigh of relief on mail-in news",
+        "sourceName": "Lewiston Tribune",
+        "url": "https://www.lmtribune.com/northwest/wa-breathes-sigh-of-relief-on-mail-in-news-44eba9f3",
+        "publishedAt": "2026-06-30",
+        "relevanceSummary": "A June 29 U.S. Supreme Court ruling rejected a Republican National Committee attempt to stop counting mail ballots that arrive after Election Day, explicitly leaving Washington’s existing deadline in place so ballots postmarked by Election Day can still be counted even if they arrive later.[1][9] This directly affects WA-03 voters who rely on the state’s vote‑by‑mail system and need clarity on how late-arriving ballots will be treated.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-07vhbff",
+        "headline": "Supreme Court rules mail-in ballots received after Election Day can be counted if postmarked beforehand",
+        "sourceName": "Washington State Elections (via Facebook)",
+        "url": "https://www.facebook.com/WashingtonStateElections/posts/on-june-29-2026-the-united-states-supreme-court-ruled-that-ballots-received-afte/1465366072294145/",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "Washington State Elections announced that the U.S. Supreme Court ruled ballots received after Election Day but postmarked on or before Election Day can continue to be counted for federal races.[9] This statewide clarification informs WA-03 voters that their timely postmarked ballots remain valid even if they reach election officials after Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0ux7f42",
+        "headline": "Washington elections officials awaiting US Supreme Court rulings that could change ballot deadlines",
+        "sourceName": "The Bellingham Herald",
+        "url": "https://www.bellinghamherald.com/news/politics-government/election/local-election/article316284752.html",
+        "publishedAt": "2026-06-27",
+        "relevanceSummary": "Washington election officials described how upcoming Supreme Court decisions could affect ballot deadlines and confirmed that for the Aug. 4 primary, ballots will be mailed to all registered voters on July 15 and must be returned via drop box or postmarked by 8 p.m.[3] WA-03 voters need this information on primary timing and ballot‑return requirements to ensure their votes are counted.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0wuuviy",
+        "headline": "WA's vote-by-mail elections could be reshaped by Trump-backed Postal Service changes",
+        "sourceName": "The Seattle Times",
+        "url": "https://www.seattletimes.com/seattle-news/politics/was-vote-by-mail-elections-could-be-reshaped-by-trump-backed-changes/",
+        "publishedAt": "2026-06-26",
+        "relevanceSummary": "The story details proposed U.S. Postal Service regulations that would establish new standards for election mail, including a federal ballot barcode and a ‘Participation List’ of eligible voters derived from federal citizenship data, affecting how Washington’s vote-by-mail system operates.[7] Any changes in USPS treatment of ballots or voter lists would shape mail‑in ballot handling for WA-03 voters statewide.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0ahu74y",
+        "headline": "Washington Voter Registration Deadlines: Oct. 26 And Nov. 3",
+        "sourceName": "Hoodline",
+        "url": "https://hoodline.com/2026/06/state-sounds-last-minute-alarm-on-washington-voter-registration-deadlines/",
+        "publishedAt": "2026-06-25",
+        "relevanceSummary": "The article relays a reminder from the Washington Secretary of State that online and mail-in voter registration updates must be received eight days before Election Day, and that afterward voters must update their information in person at a county elections office or voting center through 8 p.m. on Election Day.[5] These statewide rules directly govern how WA-03 voters can register or update their registration before upcoming elections.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-wa03-auto",
-      "startedAt": "2026-07-08T19:39:06.815Z",
-      "completedAt": "2026-07-08T19:39:10.684Z",
+      "id": "run-2026-07-15-wa03-auto",
+      "startedAt": "2026-07-15T06:34:56.919Z",
+      "completedAt": "2026-07-15T06:35:49.670Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 21,
-      "updatesCreated": 0,
+      "sourcesChecked": 15,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for WA-03. Sources checked: 21. LLM verifications: 17. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-15 for WA-03. Sources checked: 15. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:39:10.684Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:35:49.670Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
