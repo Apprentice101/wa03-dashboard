@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:35:49.670Z",
-  "exportedAt": "2026-07-15T06:42:19.234Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:46:22.462Z",
+  "exportedAt": "2026-07-22T06:53:48.884Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -999,20 +999,50 @@
         "relevanceSummary": "The article relays a reminder from the Washington Secretary of State that online and mail-in voter registration updates must be received eight days before Election Day, and that afterward voters must update their information in person at a county elections office or voting center through 8 p.m. on Election Day.[5] These statewide rules directly govern how WA-03 voters can register or update their registration before upcoming elections.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0actpbm",
+        "headline": "Tri-City ballots mailed ahead of Aug. 4 primary",
+        "sourceName": "Tri-City Herald",
+        "url": "https://www.tri-cityherald.com/news/politics-government/election/article316528498.html",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "WA-03 includes Benton and Franklin counties, so this county-level ballot-distribution story is directly relevant to many district voters. The article lists ballot drop-box locations in Benton and Franklin counties and confirms all close at 8 p.m. on Election Day.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-079m108",
+        "headline": "Washington voters begin casting primary election ballots",
+        "sourceName": "Spokane Public Radio",
+        "url": "https://www.spokanepublicradio.org/regional-news/2026-07-18/washington-voters-begin-casting-primary-election-ballots",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "This explains key statewide voting deadlines that apply to WA-03 voters, including that ballots must be turned in to an elections center or drop box by 8 p.m. on Election Day and mailed ballots must be postmarked by Aug. 4. It also notes online or mail registration is open until July 27, with in-person registration available after that at county election offices.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0utoh9r",
+        "headline": "Washington counties mail ballots for August 4 Primary",
+        "sourceName": "Washington Secretary of State",
+        "url": "https://www.sos.wa.gov/about-office/news/2026/washington-counties-mail-ballots-august-4-primary",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This statewide Secretary of State update applies directly to WA-03 voters because it announces the mailing timeline for ballots for the Aug. 4 Primary. It confirms county elections offices statewide were required to mail ballots by July 17.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-wa03-auto",
-      "startedAt": "2026-07-15T06:34:56.919Z",
-      "completedAt": "2026-07-15T06:35:49.670Z",
+      "id": "run-2026-07-22-wa03-auto",
+      "startedAt": "2026-07-22T06:45:41.072Z",
+      "completedAt": "2026-07-22T06:46:22.462Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 8,
+      "sourcesChecked": 17,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for WA-03. Sources checked: 15. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for WA-03. Sources checked: 17. LLM verifications: 11. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:35:49.670Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:46:22.462Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
