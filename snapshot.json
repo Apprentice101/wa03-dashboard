@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:46:22.462Z",
-  "exportedAt": "2026-07-22T21:18:55.831Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:50:10.908Z",
+  "exportedAt": "2026-07-29T06:57:33.779Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -1029,20 +1029,60 @@
         "relevanceSummary": "This statewide Secretary of State update applies directly to WA-03 voters because it announces the mailing timeline for ballots for the Aug. 4 Primary. It confirms county elections offices statewide were required to mail ballots by July 17.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0f58002",
+        "headline": "Rep. Marie Gluesenkamp Perez challenged from left, right, center in 3rd Congressional race",
+        "sourceName": "Camas-Washougal Post-Record",
+        "url": "https://www.camaspostrecord.com/news/2026/jul/23/rep-marie-gluesenkamp-perez-challenged-from-left-right-center-in-3rd-congressional-race/",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "The article reminds WA-03 voters that Washington’s top-two primary sends the two highest vote-getters to the November general election regardless of party, and specifies ballot-handling procedures: ballots must be postmarked by Aug. 4 or placed in a secure ballot drop site by 8 p.m. that day.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0lceua3",
+        "headline": "The race for Washington's Third Congressional District is expected to be one of the most competitive House races in the country",
+        "sourceName": "The Chronicle (Centralia)",
+        "url": "https://www.facebook.com/thecentraliachronicle/posts/the-race-for-washingtons-third-congressional-district-is-expected-to-be-one-of-t/1646003824195082/",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "This piece explains Washington’s statewide vote-by-mail system and notes that primary ballots have already been mailed, emphasizing that WA-03 residents must ensure ballots are postmarked by Aug. 4 for them to be counted.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0ad6kcd",
+        "headline": "Why Washington's 3rd District is one of the most competitive House races in the country",
+        "sourceName": "YouTube (local TV segment)",
+        "url": "https://www.youtube.com/watch?v=LznQopFCgHI",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "In discussing WA-03’s competitive House race, the segment walks through practical voting procedures for district voters, including that Washington conducts elections by mail and outlines counties that make up the district, helping voters understand where mailed ballots and local administration apply.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0352nzt",
+        "headline": "John Braun discusses key policy issues in pivotal Washington Senate race",
+        "sourceName": "YouTube (news interview)",
+        "url": "https://www.youtube.com/watch?v=rUlQFeypMgU",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This interview includes statewide procedural details directly affecting WA-03 voters: it notes that ballots for the upcoming primary have been mailed, must be returned by 8 p.m. on Aug. 4 by mail or in person, that ballot drop boxes are open 24/7, and that the deadline to register or update registration is Monday, July 27.[6]",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-wa03-auto",
-      "startedAt": "2026-07-22T06:45:41.072Z",
-      "completedAt": "2026-07-22T06:46:22.462Z",
+      "id": "run-2026-07-29-wa03-auto",
+      "startedAt": "2026-07-29T06:49:16.315Z",
+      "completedAt": "2026-07-29T06:50:10.908Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
-      "updatesCreated": 3,
+      "sourcesChecked": 16,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for WA-03. Sources checked: 17. LLM verifications: 11. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for WA-03. Sources checked: 16. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:46:22.462Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:50:10.908Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
