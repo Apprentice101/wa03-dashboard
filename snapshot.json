@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:50:10.908Z",
-  "exportedAt": "2026-07-29T06:57:33.779Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:44:16.870Z",
+  "exportedAt": "2026-08-05T06:51:11.175Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -1069,20 +1069,80 @@
         "relevanceSummary": "This interview includes statewide procedural details directly affecting WA-03 voters: it notes that ballots for the upcoming primary have been mailed, must be returned by 8 p.m. on Aug. 4 by mail or in person, that ballot drop boxes are open 24/7, and that the deadline to register or update registration is Monday, July 27.[6]",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0407deh",
+        "headline": "Washington House District 3 Primary Results 2026",
+        "sourceName": "NBC News",
+        "url": "https://www.nbcnews.com/politics/2026-primary-elections/washington-us-house-district-3-results",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "NBC News’ district results page tracks the WA-03 primary and confirms the two candidates advancing under Washington’s top-two system. It is useful for voters who want a quick read on the district’s election outcome.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0lqqkpd",
+        "headline": "Democratic Rep. Gluesenkamp Perez and Trump-backed Republican advance in Washington primary",
+        "sourceName": "CBS News",
+        "url": "https://www.cbsnews.com/news/washington-3rd-district-primary-results-marie-gluesenkamp-perez-john-braun/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "CBS News reports the WA-03 primary outcome and notes Washington’s nonpartisan top-two primary system, under which the two highest vote-getters advance to November. That makes it relevant for understanding the ballot-access rule that governs the district’s general-election lineup.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-01pu6yx",
+        "headline": "Washington 2026 live primary election results",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/amp/Politics/washington-2026-live-primary-election-results/story?id=134596751",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This live results page includes Washington’s 3rd Congressional District primary and reflects the statewide top-two system that determines which candidates appear on the November ballot. It is useful to WA-03 voters for tracking the district’s election outcome, though it is primarily results coverage rather than procedure.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0hzp6cx",
+        "headline": "Gluesenkamp Perez and Braun lead in primary race for Washington's Congressional District 3",
+        "sourceName": "KING 5",
+        "url": "https://www.king5.com/article/news/politics/elections/gluesenkamp-perez-and-braun-lead-in-primary-race-for-washingtons-congressional-district-3/281-e80e9926-2974-4277-9c67-d9a3ac84a42f",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "KING 5’s WA-03 coverage reports the district’s top-two primary results, which determine the two candidates who advance to the November general election. For voters, that is the key ballot-access outcome of the primary.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0sltbo8",
+        "headline": "Washington primary election voting ends today. The race ...",
+        "sourceName": "OPB",
+        "url": "https://www.opb.org/article/2026/08/04/washington-election-day-voting-politics-elections-primary/",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "This election-day guide is directly useful to WA-03 voters because it covers how Washington’s primary voting works on Election Day and is tied to the statewide primary that determines who advances in the district. OPB’s coverage is relevant to ballot handling and voting logistics, including how voters cast or return ballots before polls close.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-02v7qqc",
+        "headline": "Washington's 3rd District could be among the most competitive House seats this fall",
+        "sourceName": "OPB",
+        "url": "https://www.opb.org/article/2026/07/21/washington-3rd-district-marie-gluesenkamp-perez-john-braun/",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "Although focused on the race rather than procedures, this article is about WA-03 specifically and explains the district’s top-two primary structure, which is the governing ballot-access rule for voters deciding who advances to November. That makes it relevant district-level election information for voters following the August primary.",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-wa03-auto",
-      "startedAt": "2026-07-29T06:49:16.315Z",
-      "completedAt": "2026-07-29T06:50:10.908Z",
+      "id": "run-2026-08-05-wa03-auto",
+      "startedAt": "2026-08-05T06:42:57.618Z",
+      "completedAt": "2026-08-05T06:44:16.870Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 4,
+      "sourcesChecked": 17,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for WA-03. Sources checked: 16. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for WA-03. Sources checked: 17. LLM verifications: 18. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:50:10.908Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:44:16.870Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
