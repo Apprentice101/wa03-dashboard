@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:44:16.870Z",
-  "exportedAt": "2026-08-05T06:51:11.175Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:44:00.953Z",
+  "exportedAt": "2026-08-12T05:50:34.255Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -1129,20 +1129,70 @@
         "relevanceSummary": "Although focused on the race rather than procedures, this article is about WA-03 specifically and explains the district’s top-two primary structure, which is the governing ballot-access rule for voters deciding who advances to November. That makes it relevant district-level election information for voters following the August primary.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-09ogwad",
+        "headline": "WA election security in focus as post-polls counting begins",
+        "sourceName": "NBC Right Now",
+        "url": "https://www.nbcrightnow.com/news/auditor-concerned-there-could-be-some-confusion-in-general-election/article_922613dd-50dc-5219-a924-1563bf88ad81.html",
+        "publishedAt": "2026-08-11",
+        "relevanceSummary": "This article is relevant to WA-03 voters because it covers Washington election administration and ballot-counting procedures as counties continue tabulating votes. Any changes or concerns in statewide counting practices affect how mail ballots are processed and reported for voters in this district.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-019ue61",
+        "headline": "Friday's Ballot Drop Is Here",
+        "sourceName": "The Stranger",
+        "url": "https://www.thestranger.com/election-2026-2/fridays-ballot-drop-is-here/",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This piece is relevant because it discusses ballot-drop timing and voter participation in Washington's mail-ballot system. That directly affects WA-03 voters, who rely on county ballot drop boxes and mailed ballots for primary and general election voting.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-000owfg",
+        "headline": "Ballot counting continues as counties face Aug. 18 certification deadline",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/leaderboard-jostled-wa-legislative-races-015252345.html",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This statewide Washington election update matters because it describes the certification timeline that applies to general election administration across the state. WA-03 voters should know that county counting continues before final certification, so official results can change after election night.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0n15ym2",
+        "headline": "WA congressional 3rd district primary exposes Democratic tensions",
+        "sourceName": "The Seattle Times",
+        "url": "https://www.seattletimes.com/seattle-news/politics/wa-congressional-3rd-district-primary-exposes-democratic-tensions/",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "This WA-03-specific article covers the district's primary and the candidate field advancing to the November general election. It matters to voters because candidate qualification and the district's general-election lineup determine what appears on their ballot.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-09iqeq7",
+        "headline": "Can Gluesenkamp Perez win over the Democrats who ...",
+        "sourceName": "OPB",
+        "url": "https://www.opb.org/article/2026/08/07/politics-washington-glusenamp-perez-john-braun/",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "This WA-03 primary coverage explains the current general-election matchup in the district and why ballot counting is still changing the result. It matters to voters because the article reports that votes were still being tallied after Election Day, underscoring how Washington's vote-by-mail process affects timely results in the district.",
+        "tag": "results",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-wa03-auto",
-      "startedAt": "2026-08-05T06:42:57.618Z",
-      "completedAt": "2026-08-05T06:44:16.870Z",
+      "id": "run-2026-08-12-wa03-auto",
+      "startedAt": "2026-08-12T05:43:10.424Z",
+      "completedAt": "2026-08-12T05:44:00.953Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
-      "updatesCreated": 6,
+      "sourcesChecked": 15,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for WA-03. Sources checked: 17. LLM verifications: 18. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for WA-03. Sources checked: 15. LLM verifications: 12. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:44:16.870Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:44:00.953Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
