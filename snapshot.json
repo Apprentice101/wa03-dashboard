@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:44:00.953Z",
-  "exportedAt": "2026-08-12T05:50:34.255Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T05:03:23.640Z",
+  "exportedAt": "2026-08-19T05:10:49.381Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -1179,20 +1179,100 @@
         "relevanceSummary": "This WA-03 primary coverage explains the current general-election matchup in the district and why ballot counting is still changing the result. It matters to voters because the article reports that votes were still being tallied after Election Day, underscoring how Washington's vote-by-mail process affects timely results in the district.",
         "tag": "results",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0he8gfm",
+        "headline": "August 2026 Primary Election - King County, Washington (Results Updates)",
+        "sourceName": "King County Elections",
+        "url": "https://kingcounty.gov/en/dept/elections/results/2026/august-primary-election",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "King County Elections describes how initial results are posted shortly after 8 p.m. on Election Day and then updated on weekdays until certification, illustrating Washington’s rolling tabulation and certification schedule for the August 4, 2026 primary.[7] This statewide practice shapes WA-03 voters’ expectations for when primary results become official and which candidates advance to November.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0qhy3g7",
+        "headline": "Pierce County Elections",
+        "sourceName": "Pierce County",
+        "url": "https://www.piercecountywa.gov/328/Elections",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Pierce County’s elections page provides current information on ballot drop box locations, logic and accuracy test results, and voters’ guides, illustrating county‑level administration steps like equipment testing and public transparency that are typical across Washington.[12] Such procedures matter to WA-03 voters because similar county practices underpin the security and accessibility of their own elections.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0v5if42",
+        "headline": "2026 August Primary | Clallam County, WA",
+        "sourceName": "Clallam County",
+        "url": "https://www.clallamcountywa.gov/1949/2026-August-Primary",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Clallam County’s August 2026 election page details Washington’s deadlines for voter registration updates, ballot return options (mail, official drop boxes, accessible voting units), and signature‑cure procedures, which reflect statewide mail‑ballot and cure practices that apply to WA-03 voters as well.[3] It also highlights replacement ballot access via VoteWA and ballot-status tracking, providing procedural guidance relevant to any Washington voter.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0wkjkyp",
+        "headline": "17 August 2026 (West Seattle elections briefing)",
+        "sourceName": "West Seattle Blog",
+        "url": "https://westseattleblog.com/2026/08/17/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "Coverage of a King County Elections briefing urges voters to return ballots via official drop boxes rather than U.S. mail, notes plans to expand drop boxes countywide, and explains ballot‑tracking tools, signature verification, and security measures like cameras and access controls.[8] These operational details help Washington voters, including those in WA-03, understand mail‑in ballot handling, drop‑box usage, and signature‑verification procedures.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0mewzne",
+        "headline": "August 2026 Primary Election - King County, Washington (Election Information)",
+        "sourceName": "King County Elections",
+        "url": "https://kingcounty.gov/en/dept/elections/election-information/2026/august-primary",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "King County’s August 2026 primary information explains Washington’s three main ballot return methods (mail, drop box, in-person vote centers), replacement ballot procedures, and opportunities for public observation of election work, illustrating how mail-heavy, drop-box-centered administration operates statewide.[2] These logistics and resources are broadly applicable to WA-03 voters under Washington’s vote‑by‑mail system.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-05opcb1",
+        "headline": "Ballot Processing for August 4, 2026 Primary Election (Spokane County Calendar)",
+        "sourceName": "Spokane County",
+        "url": "https://www.spokanecounty.gov/Calendar.aspx?EID=9493",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "Spokane County’s ballot‑processing calendar item outlines stages such as signature verification, multiple processing passes, supplemental ballot tally, and adjudication review for the August 4, 2026 primary.[5] This county‑level glimpse into Washington ballot‑processing workflows illustrates procedures that are substantially similar across counties, informing WA-03 voters about how their ballots are verified and counted.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0ljugq5",
+        "headline": "August 12, 2026 News Transcript",
+        "sourceName": "KMRE",
+        "url": "https://kmre.org/august-12-2026-news-transcript/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "The KMRE transcript describes Washington’s mandatory recount thresholds—triggered when margins are under 2,000 votes and less than 0.5%—and notes that challenged ballots (including those flagged for signature or ID issues) are reviewed in a dedicated session before certification.[10] These statewide recount and ballot‑challenge procedures inform WA-03 voters about how close races and cure opportunities are handled.",
+        "tag": "recount",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-00sxfeg",
+        "headline": "Ongoing Tabulation in Washington Primary Challenges Instant Results Expectations",
+        "sourceName": "DigitalChew",
+        "url": "https://digitalchew.com/2026/08/primary-ongoing-tabulation-in-washington/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This article explains that Washington’s August 4, 2026 primary uses a mail‑heavy voting system with results updated as counties report new tabulations, remaining unofficial until certification, and that the top two vote‑getters in each contest advance to the November general under state law.[6] WA-03 voters benefit from understanding these statewide election‑administration rules and candidate‑advancement procedures.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-wa03-auto",
-      "startedAt": "2026-08-12T05:43:10.424Z",
-      "completedAt": "2026-08-12T05:44:00.953Z",
+      "id": "run-2026-08-19-wa03-auto",
+      "startedAt": "2026-08-19T05:02:13.394Z",
+      "completedAt": "2026-08-19T05:03:23.640Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 5,
+      "sourcesChecked": 14,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for WA-03. Sources checked: 15. LLM verifications: 12. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for WA-03. Sources checked: 14. LLM verifications: 10. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:44:00.953Z",
+    "NEXT_REFRESH_AT": "2026-08-26T05:03:23.640Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
