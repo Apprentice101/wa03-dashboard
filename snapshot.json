@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T05:03:23.640Z",
-  "exportedAt": "2026-08-19T05:10:49.381Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T05:11:20.536Z",
+  "exportedAt": "2026-08-26T05:18:37.662Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -1259,20 +1259,40 @@
         "relevanceSummary": "This article explains that Washington’s August 4, 2026 primary uses a mail‑heavy voting system with results updated as counties report new tabulations, remaining unofficial until certification, and that the top two vote‑getters in each contest advance to the November general under state law.[6] WA-03 voters benefit from understanding these statewide election‑administration rules and candidate‑advancement procedures.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0p7ofv8",
+        "headline": "What to know about voting in Washington amid federal tumult",
+        "sourceName": "Cascade PBS",
+        "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/08/what-to-know-about-voting-in-washington-amid-federal-tumult",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "Provides a statewide explainer on Washington’s vote‑by‑mail system, with Secretary of State Hobbs advising voters to use drop boxes rather than mail within a week of Election Day because ballots must be postmarked before 8 p.m. that Tuesday, and noting the security of elections in all 39 counties.[15] WA-03 voters can use this guidance to choose how and when to return ballots and to understand statewide security practices.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-04zbvzm",
+        "headline": "News | Clark County (hand-count audit of 3rd District race ballots)",
+        "sourceName": "Clark County",
+        "url": "https://clark.wa.gov/news?department=All&field_microsite_tid=31&site_section=All&title=&page=0",
+        "publishedAt": "2026-08-11",
+        "relevanceSummary": "Clark County officials will hand-count approximately 600 ballots from the United States Representative 3rd Congressional District race to verify that ballot tabulation equipment is counting votes correctly.[14] This directly affects WA-03 voters by detailing a specific audit procedure aimed at ensuring accurate results in their congressional race.",
+        "tag": "security",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-wa03-auto",
-      "startedAt": "2026-08-19T05:02:13.394Z",
-      "completedAt": "2026-08-19T05:03:23.640Z",
+      "id": "run-2026-08-26-wa03-auto",
+      "startedAt": "2026-08-26T05:09:24.886Z",
+      "completedAt": "2026-08-26T05:11:20.536Z",
       "triggerType": "scheduled",
       "sourcesChecked": 14,
-      "updatesCreated": 8,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for WA-03. Sources checked: 14. LLM verifications: 10. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for WA-03. Sources checked: 14. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T05:03:23.640Z",
+    "NEXT_REFRESH_AT": "2026-09-02T05:11:20.536Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
