@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T05:11:20.536Z",
-  "exportedAt": "2026-08-26T05:18:37.662Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T09:03:02.485Z",
+  "exportedAt": "2026-09-02T09:12:45.887Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -1279,20 +1279,100 @@
         "relevanceSummary": "Clark County officials will hand-count approximately 600 ballots from the United States Representative 3rd Congressional District race to verify that ballot tabulation equipment is counting votes correctly.[14] This directly affects WA-03 voters by detailing a specific audit procedure aimed at ensuring accurate results in their congressional race.",
         "tag": "security",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0qn22jt",
+        "headline": "Secretary of State: Ruling means no change to Washington’s election process",
+        "sourceName": "KOMO News (via statement by Secretary of State Steve Hobbs)",
+        "url": "https://x.com/komonews/status/2093514597416227125",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "Washington Secretary of State Steve Hobbs stated that the court ruling on federal mail-voting rules means there is currently no change to Washington’s election process and that every eligible voter can continue to vote by mail, confirming for WA-03 voters that existing statewide vote-by-mail procedures remain in place for now.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-06yy0by",
+        "headline": "Clark County Elections to Install Security Camera at HCC Ballot Box",
+        "sourceName": "Hockinson School District / Clark County Elections notice",
+        "url": "https://hhs.hocksd.org/o/hms/article/3098106",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Clark County, which includes part of WA-03, is installing a pole-mounted security camera to monitor the ballot drop box at Hockinson Community Center, and reiterates that the box is open 18 days before an election until 8 p.m. on Election Day, directly affecting local drop-box access and security for WA-03 voters using this location.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0lpyxbt",
+        "headline": "What You Need to Know About the USPS Mail Ballot Rule",
+        "sourceName": "Voting Rights Lab",
+        "url": "https://votingrightslab.org/2026/08/28/what-you-need-to-know-about-the-proposed-usps-mail-ballot-rule/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "The article details proposed USPS requirements that election officials submit approved mail-voter lists to a federal portal and print unique barcodes on ballot envelopes, with USPS refusing delivery for noncompliant ballots; WA-03 voters should be aware that these changes, if implemented, could affect how counties across Washington issue and return mail ballots.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-05g46gn",
+        "headline": "USPS Ballot Mail Rule: Overview and Potential Impact",
+        "sourceName": "Congressional Research Service",
+        "url": "https://www.congress.gov/crs-product/IF13297",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This analysis explains the new USPS ballot mail rule, including required Election Mail logos, unique barcodes, mandatory state uploads of approved mail-voter lists, and USPS returning noncompliant ballot mailings; WA-03 voters and local election officials should understand these potential federal constraints because they could alter Washington’s mail-in ballot procedures if allowed to take effect.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-01wnvm4",
+        "headline": "Trump administration appeals latest ruling blocking mail voting executive order",
+        "sourceName": "ABC7",
+        "url": "https://abc7.com/post/judge-temporarily-blocks-president-donald-trump-mail-voting-executive-order/19752447/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "The Trump administration has appealed a ruling that blocked its mail voting executive order, which would let USPS refuse to deliver ballots from states that do not submit eligible-voter lists and use a uniform envelope style; continued appeals create uncertainty for Washington’s mail-ballot procedures that WA-03 voters rely on for November.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0i21z01",
+        "headline": "Judge Temporarily Blocks New Trump Administration Mail-In Ballot Rules",
+        "sourceName": "The Wall Street Journal",
+        "url": "https://www.wsj.com/politics/policy/judge-temporarily-blocks-new-trump-administration-mail-in-ballot-rules-104dd5ce",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "A federal judge has temporarily blocked nationwide implementation of Trump administration rules that would upend mail-in voting procedures and empower USPS to refuse certain ballots, meaning Washington’s existing vote-by-mail system used by WA-03 voters is not yet subject to those new federal restrictions ahead of the midterms.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-04zxck8",
+        "headline": "AG Brown, Coalition Win Temporary Halt on New USPS Rule Impacting Mail-in Voting",
+        "sourceName": "Lynnwood Times",
+        "url": "https://lynnwoodtimes.com/2026/08/27/usps-rule/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "A court ruling has temporarily stayed implementation of the new USPS ballot-mail rule, pausing mandatory envelope-design standards, registration in a USPS portal, voter-data uploads, and provisions letting USPS refuse to mail noncompliant ballots; this means WA-03 voters’ mail-ballot procedures remain under existing state rules for now while litigation continues.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0rj88oz",
+        "headline": "WA sues again to stop Trump administration mail-in voting requirements",
+        "sourceName": "Washington State Standard",
+        "url": "https://washingtonstatestandard.com/2026/08/26/wa-sues-again-to-stop-trump-administration-mail-in-voting-requirements/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Washington’s attorney general has again sued to block new federal USPS mail-in voting rules that would immediately change envelope design standards, require voter data uploads to a federal portal, and allow USPS to refuse to mail noncompliant ballots, directly affecting how WA-03 voters’ mail ballots could be handled for the 2026 general election.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-wa03-auto",
-      "startedAt": "2026-08-26T05:09:24.886Z",
-      "completedAt": "2026-08-26T05:11:20.536Z",
+      "id": "run-2026-09-02-wa03-auto",
+      "startedAt": "2026-09-02T09:00:51.589Z",
+      "completedAt": "2026-09-02T09:03:02.485Z",
       "triggerType": "scheduled",
       "sourcesChecked": 14,
-      "updatesCreated": 2,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for WA-03. Sources checked: 14. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for WA-03. Sources checked: 14. LLM verifications: 10. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T05:11:20.536Z",
+    "NEXT_REFRESH_AT": "2026-09-09T09:03:02.485Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
