@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T09:03:02.485Z",
-  "exportedAt": "2026-09-02T09:12:45.887Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T09:15:16.858Z",
+  "exportedAt": "2026-09-09T09:22:54.485Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -1359,20 +1359,100 @@
         "relevanceSummary": "Washington’s attorney general has again sued to block new federal USPS mail-in voting rules that would immediately change envelope design standards, require voter data uploads to a federal portal, and allow USPS to refuse to mail noncompliant ballots, directly affecting how WA-03 voters’ mail ballots could be handled for the 2026 general election.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-038kfme",
+        "headline": "4,000 additional ballots in Washington rejected due to late postmark even as more voters use ballot drop boxes",
+        "sourceName": "The Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2026/sep/04/4000-additional-ballots-in-washington-rejected-due/",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "This article says thousands more Washington ballots were rejected because they were postmarked too late, even as more voters used drop boxes. It is highly relevant for WA-03 voters because the same statewide timing rules apply to their mail ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-096b46h",
+        "headline": "Washington blocks new Trump mail voting rules, keeping midterm election procedures intact",
+        "sourceName": "KOMO News",
+        "url": "https://komonews.com/news/local/washington-blocks-new-trump-mail-voting-rules-keeping-midterm-election-procedures-intact-usps-ballot-voting-president-trump-fraud-steal-rule-change-us-sen-maria-cantwell-secretary-of-state-steve-hobbs",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "KOMO reports that a court ruling kept Washington’s existing voting process in place for November despite new federal mail-voting rules. Because WA-03 voters follow Washington statewide procedures, this affects ballot handling and return rules across the district.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0amddl3",
+        "headline": "WA leaders issue new guidance for election workers facing inspections",
+        "sourceName": "FOX 13 Seattle",
+        "url": "https://www.fox13seattle.com/news/wa-election-workers-inspections",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "State election leaders issued guidance telling county staff to verify credentials, pause for counsel, and not stop ballot processing for verbal requests or subpoenas. The story also says Washington voters can check registration, track ballots, and find official drop boxes through VoteWA, which matters statewide for WA-03 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0d3wgm4",
+        "headline": "Record number of Washington mail-in ballots uncounted after primary election report",
+        "sourceName": "OPB",
+        "url": "https://www.opb.org/article/2026/09/03/record-number-washington-mail-in-ballots-uncounted-after-primary-election-report/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "The report says Washington saw a record number of uncounted mail ballots after the primary and quotes officials urging voters to mail ballots as early as possible or use county drop boxes for November. That matters to WA-03 voters because it highlights how return timing can affect whether a ballot is counted.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0wt7u6m",
+        "headline": "EXCLUSIVE: USPS pushes back on Cantwell, Hobbs claims agency is undermining Washington mail-in voting",
+        "sourceName": "KVI",
+        "url": "https://www.kvi.com/2026/09/03/exclusive-usps-pushes-back-on-cantwell-hobbs-claims-agency-is-undermining-washington-mail-in-voting/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "The article explains USPS guidance on getting a manual postmark at a retail counter when dropping off a ballot and recommends mailing ballots at least one week before Election Day. That is directly relevant to WA-03 voters because Washington counts timely postmarked ballots and mail timing can determine whether a ballot is accepted.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0x5ayv0",
+        "headline": "WA Residents Told To Drop Mail-In Ballots In Ballot Boxes To Guarantee Your Vote Is Counted This Fall",
+        "sourceName": "Daily Fly",
+        "url": "https://www.dailyfly.com/2026/09/03/wa-residents-told-to-drop-mail-in-ballots-in-ballot-boxes-to-guarantee-your-vote-is-counted-this-fall/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "The article reinforces Washington’s mail-ballot rule that ballots must be postmarked by Election Day to count. For WA-03 voters, it is a practical reminder to use official drop boxes or mail early to avoid late-postmark problems.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0fqxsqh",
+        "headline": "Hobbs and Brown Issues County Election Guide After DHS Puts ...",
+        "sourceName": "Lynnwood Times",
+        "url": "https://lynnwoodtimes.com/2026/09/03/guide/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Washington county election offices were told how to handle federal inspections while continuing ballot processing, and the article notes that counties will begin mailing ballots to military and overseas voters on September 19 and to all other registered voters on October 16. That directly affects WA-03 voters because Washington’s statewide mail-ballot timeline and drop-box availability govern how they receive and return ballots.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-05ldnah",
+        "headline": "Uncounted late ballots jump in WA as fears of Postal Service delays intensify",
+        "sourceName": "The Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2026/sep/02/uncounted-late-ballots-jump-in-wa-as-fears-of-post/",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "The story says officials are urging Washingtonians to use ballot drop boxes or mail ballots at least a week before Election Day so they will be counted. That is directly useful for WA-03 voters navigating Washington’s statewide mail-ballot system.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-wa03-auto",
-      "startedAt": "2026-09-02T09:00:51.589Z",
-      "completedAt": "2026-09-02T09:03:02.485Z",
+      "id": "run-2026-09-09-wa03-auto",
+      "startedAt": "2026-09-09T09:13:43.799Z",
+      "completedAt": "2026-09-09T09:15:16.858Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
+      "sourcesChecked": 18,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for WA-03. Sources checked: 14. LLM verifications: 10. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for WA-03. Sources checked: 18. LLM verifications: 14. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T09:03:02.485Z",
+    "NEXT_REFRESH_AT": "2026-09-16T09:15:16.858Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
