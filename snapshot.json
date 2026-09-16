@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T09:15:16.858Z",
-  "exportedAt": "2026-09-09T09:22:54.485Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:46:27.946Z",
+  "exportedAt": "2026-09-16T09:54:26.761Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -111,7 +111,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Governing statute for all Washington election administration, including RCW 29A.60.050 (ballot receipt/postmark grace period at issue in Watson v. RNC)."
       },
@@ -1439,20 +1439,80 @@
         "relevanceSummary": "The story says officials are urging Washingtonians to use ballot drop boxes or mail ballots at least a week before Election Day so they will be counted. That is directly useful for WA-03 voters navigating Washington’s statewide mail-ballot system.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0m543si",
+        "headline": "WA officials celebrate SCOTUS rejection of Trump mail-in ballot restrictions",
+        "sourceName": "FOX 13 Seattle",
+        "url": "https://www.fox13seattle.com/news/wa-officials-scotus-rejection-trump-mail-in-ballot.amp",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Washington’s top election officials state that the Supreme Court’s order keeping the injunction in place means nothing is changing about Washington elections right now; WA-03 voters will continue to receive ballots by mail and can use VoteWA.gov to check registration and find official ballot drop boxes.[7]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-08zye6y",
+        "headline": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+        "sourceName": "WTOP News",
+        "url": "https://wtop.com/us-politics/2026/09/supreme-court-rejects-trump-mail-ballot-restrictions-for-now-ahead-of-midterms-2/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "The U.S. Supreme Court declined to allow new federal restrictions on mail ballots, and Washington Secretary of State Steve Hobbs said the decision allows the state to continue its existing mail ballot processes without disruption, ensuring WA-03 voters keep the same vote-by-mail rules for the November general.[5]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0yy130u",
+        "headline": "Amid uncertainty about mail-in ballots, WA leaders say they're ready for what comes next.",
+        "sourceName": "News From The States (Washington)",
+        "url": "https://www.newsfromthestates.com/article/amid-uncertainty-about-mail-ballots-wa-leaders-say-theyre-ready-what-comes-next",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "Washington officials describe contingency procedures for mail-in voting, including a statewide system for voters to print replacement ballots and envelopes, guidance to use designated drop boxes especially close to Election Day, and forthcoming updated drop box maps, all of which apply to WA-03 voters.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0swprzu",
+        "headline": "No Changes to Washington Vote-by-Mail After First Circuit Rejects Emergency Stay, Battle Heads to SCOTUS",
+        "sourceName": "Lynnwood Times",
+        "url": "https://lynnwoodtimes.com/2026/09/10/usps-rule-2/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This piece reports that a federal appeals court kept a block on a new USPS rule for mail-in ballots, and Washington’s Secretary of State confirms there is currently no change to Washington’s vote-by-mail processes, meaning WA-03 voters will continue using the same mail ballot and drop-box procedures as in past elections.[3]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0y61sx4",
+        "headline": "Washington officials urge use of ballot drop boxes amid mail delays",
+        "sourceName": "Axios Seattle",
+        "url": "https://www.axios.com/local/seattle/2026/09/10/washington-election-usps-mail-delays-ballot-drop-boxes",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This article explains that Washington ballots are counted based on postmark date and urges voters to use official ballot drop boxes or request a hand-stamped postmark at the post office due to mail delays, which directly affects how WA-03 voters should return their mail ballots this November.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-09syqtr",
+        "headline": "Ballots discounted for late postmarks surged in Washington and Oregon after Postal Service changes",
+        "sourceName": "KPTV",
+        "url": "https://www.kptv.com/2026/09/09/ballots-discounted-late-postmarks-surged-washington-oregon-after-postal-service-changes/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "This story notes an increase in ballots not counted due to late postmarks in Washington after USPS changes and reiterates state officials’ guidance that voters who choose to vote by mail should mail their ballots at least a week before the deadline, a timing recommendation that WA-03 voters should follow.[9]",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-wa03-auto",
-      "startedAt": "2026-09-09T09:13:43.799Z",
-      "completedAt": "2026-09-09T09:15:16.858Z",
+      "id": "run-2026-09-16-wa03-auto",
+      "startedAt": "2026-09-16T09:44:52.424Z",
+      "completedAt": "2026-09-16T09:46:27.946Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 18,
-      "updatesCreated": 8,
+      "sourcesChecked": 16,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for WA-03. Sources checked: 18. LLM verifications: 14. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for WA-03. Sources checked: 16. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T09:15:16.858Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:46:27.946Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
