@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:46:27.946Z",
-  "exportedAt": "2026-09-16T09:54:26.761Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:33:35.321Z",
+  "exportedAt": "2026-09-23T09:40:45.603Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -1499,20 +1499,90 @@
         "relevanceSummary": "This story notes an increase in ballots not counted due to late postmarks in Washington after USPS changes and reiterates state officials’ guidance that voters who choose to vote by mail should mail their ballots at least a week before the deadline, a timing recommendation that WA-03 voters should follow.[9]",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-05xt810",
+        "headline": "Here's how to register to vote in Washington before election",
+        "sourceName": "Seattle Red",
+        "url": "https://seattlered.com/politics/how-to-register-to-vote-washington-november-2026-election/4120341",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The article explains Washington registration deadlines for the November 3 general election: October 26 online or by mail, and 8 p.m. on Election Day in person at a county elections office. It also describes registration identification options, ballot-mailing timing, return deadlines, and checking registration and ballot status through VoteWA.gov.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-054klbn",
+        "headline": "Washington successfully defends private information of voters ...",
+        "sourceName": "Washington Secretary of State",
+        "url": "https://www.sos.wa.gov/about-office/news/2026/washington-successfully-defends-private-information-voters-federal-government-loses-another-case",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "A federal judge ruled that the federal government cannot force Washington to provide private information for all registered voters. The decision directly concerns Washington voter-registration data and election administration, including voters in WA-03.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-03zlv62",
+        "headline": "Injunction Upheld: federal administration can't interfere with mid-term elections",
+        "sourceName": "Ground News",
+        "url": "https://ground.news/article/injunction-upheld-federal-administration-cant-interfere-with-mid-term-elections",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article reports that the U.S. Supreme Court left in place an injunction preventing the U.S. Postal Service from imposing new mail-ballot restrictions before Washington’s November 3, 2026 general election. Washington Secretary of State Steve Hobbs said the decision avoids disruption for voters.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0kn8qk6",
+        "headline": "‘Welcome certainty': WA election officials react to mail-in ballot ruling",
+        "sourceName": "The Daily Herald",
+        "url": "https://www.heraldnet.com/2026/09/18/welcome-certainty-wa-election-officials-react-to-mail-in-ballot-ruling/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "Washington election officials said voters should act early when returning ballots for the November 3 election. Ballots mailed fewer than 10 days before Election Day should receive a hand postmark at a post office, or voters can use an official drop box; the article notes one county has 38 drop boxes.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0ozpxt2",
+        "headline": "States hold off on discarding 2024 ballots after DOJ notice",
+        "sourceName": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/news/justice/4730747/states-hold-off-discarding-2024-ballots-doj-notice/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "Washington’s Secretary of State asked counties to preserve 2024 ballots, return envelopes, proof-of-voting records, and other election materials because of potential litigation. This is a statewide election-records administration development relevant to Washington voters, though it does not change current voting procedures.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-06vzw6e",
+        "headline": "King County elections chief urges early voting at Wing Luke town hall",
+        "sourceName": "Northwest Asian Weekly",
+        "url": "https://nwasianweekly.com/2026/09/king-county-elections-chief-urges-early-voting-at-wing-luke-town-hall/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "King County Elections advised voters to sign return envelopes, use drop boxes when possible, mail ballots at least a week before Election Day, and track ballot status. The article also lists the county’s October ballot-mailing and drop-box dates and explains signature verification and notification of questioned signatures; King County procedures are relevant as Washington election-administration practice.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0xfzufd",
+        "headline": "WA Secretary of State warns against using voting website funded by Elon Musk PAC",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/wa-secretary-state-warns-against-using-voting-website-funded-by-elon-musk-pac-115441449.html",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "Washington’s Secretary of State warned voters about potential red flags involving a privately funded website that offers voter-registration assistance and election reminders. The warning is relevant to WA-03 voters seeking registration information and directs attention to official election resources.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-wa03-auto",
-      "startedAt": "2026-09-16T09:44:52.424Z",
-      "completedAt": "2026-09-16T09:46:27.946Z",
+      "id": "run-2026-09-23-wa03-auto",
+      "startedAt": "2026-09-23T09:32:20.745Z",
+      "completedAt": "2026-09-23T09:33:35.321Z",
       "triggerType": "scheduled",
       "sourcesChecked": 16,
-      "updatesCreated": 6,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for WA-03. Sources checked: 16. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for WA-03. Sources checked: 16. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:46:27.946Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:33:35.321Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
