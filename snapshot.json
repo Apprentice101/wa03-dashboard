@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:33:35.321Z",
-  "exportedAt": "2026-09-23T09:40:45.603Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:33:17.273Z",
+  "exportedAt": "2026-09-30T10:40:53.081Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -1569,20 +1569,80 @@
         "relevanceSummary": "Washington’s Secretary of State warned voters about potential red flags involving a privately funded website that offers voter-registration assistance and election reminders. The warning is relevant to WA-03 voters seeking registration information and directs attention to official election resources.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0qvjglh",
+        "headline": "In Skagit County, rural mail delays can mean ballots that never count",
+        "sourceName": "La Conner Community News",
+        "url": "https://laconnercommunitynews.org/2026/09/24/in-skagit-county-rural-mail-delays-can-mean-ballots-that-never-count/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Washington voters are advised to use an official county drop box by 8 p.m. on Election Day because late postmarks cannot generally be cured. Voters using mail are encouraged to send ballots at least a week early or obtain a manual postmark at a post-office counter.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-04kmzvx",
+        "headline": "WA voters of color more likely to have ballots challenged, per report",
+        "sourceName": "The Columbian",
+        "url": "https://www.columbian.com/news/2026/sep/24/wa-voters-of-color-more-likely-to-have-ballots-challenged-per-report/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Washington mail-ballot voters must sign their return envelopes, and ballots can be rejected for missing or mismatched signatures. The article explains the signature-cure process, allowing challenged voters to submit a form to the county election office so their ballots can be counted.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-00tcpws",
+        "headline": "Office of the Secretary of State and Attorney General's Office release guide for state and federal election administration",
+        "sourceName": "Washington Secretary of State",
+        "url": "https://www.sos.wa.gov/about-office/news/2026/office-secretary-state-and-attorney-generals-office-release-guide-state-and-federal-election",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "Washington election officials released guidance explaining state and federal roles in election administration. Because WA-03 voters’ ballots are prepared, mailed, and counted by county election offices under Washington’s county-administered system, the guidance is directly relevant to election administration in the district.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0a2s0tv",
+        "headline": "Injunction upheld: federal administration can’t interfere with midterm elections",
+        "sourceName": "Washington Secretary of State",
+        "url": "https://www.sos.wa.gov/about-office/news/2026/injunction-upheld-federal-administration-cant-interfere-midterm-elections",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "The Secretary of State reported that an injunction remains in place limiting federal interference with midterm elections and said Washington voters will continue receiving ballots by mail. The ruling and state response apply statewide, including WA-03.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0kwpy1e",
+        "headline": "Washington Secretary of State encourages Washingtonians to participate in National Voter Registration Day",
+        "sourceName": "Washington Secretary of State",
+        "url": "https://www.sos.wa.gov/about-office/news/2026/washington-secretary-state-encourages-washingtonians-participate-national-voter-registration-day",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "The Secretary of State reminded Washington voters to update registration after moving or changing their name and described online, mail, and in-person registration options. For the Nov. 3 general election, online and mailed registrations must be received by Oct. 26; later registration or updates remain available in person at a county elections office or voting center through 8 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0rkrsod",
+        "headline": "Amid uncertainty about mail-in ballots, WA leaders say they're ready for what comes next",
+        "sourceName": "KUOW",
+        "url": "https://www.kuow.org/elections/2026-09-11/amid-uncertainty-about-mail-in-ballots-wa-leaders-say-theyre-ready-for-what-comes-next",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "Washington election officials advised voters concerned about postmark timing to use an official drop box, hand-deliver ballots to a post office for a manual postmark, or use a replacement ballot through VoteWA. The article also explains statewide drop-box availability and voting-center options relevant to WA-03 voters.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-wa03-auto",
-      "startedAt": "2026-09-23T09:32:20.745Z",
-      "completedAt": "2026-09-23T09:33:35.321Z",
+      "id": "run-2026-09-30-wa03-auto",
+      "startedAt": "2026-09-30T10:32:08.729Z",
+      "completedAt": "2026-09-30T10:33:17.273Z",
       "triggerType": "scheduled",
       "sourcesChecked": 16,
-      "updatesCreated": 7,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for WA-03. Sources checked: 16. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for WA-03. Sources checked: 16. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:33:35.321Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:33:17.273Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
