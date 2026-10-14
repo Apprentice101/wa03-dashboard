@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T11:08:52.602Z",
-  "exportedAt": "2026-10-07T11:16:14.598Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:28:36.734Z",
+  "exportedAt": "2026-10-14T09:35:45.685Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -1689,20 +1689,90 @@
         "relevanceSummary": "The article describes Washington’s signature-verification and signature-cure process: voters whose signatures are missing or do not match can submit a form to their county elections office, while uncured ballots are not counted. The statewide procedure is directly relevant to WA-03 mail voters.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0gv3bla",
+        "headline": "Got Questions About the Midterm Elections? We Got Answers",
+        "sourceName": "United Way of King County",
+        "url": "https://www.uwkc.org/advocacy/got-questions-about-the-mid-term-elections-we-got-answers/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The voter guide explains Washington’s 18-day voting period, 24-hour drop-box access, the 8 p.m. Election Day deadline, and security requirements for ballot boxes. These statewide procedures are relevant to WA-03 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0yioi8s",
+        "headline": "Notice of Election",
+        "sourceName": "Ein Presswire",
+        "url": "https://www.einpresswire.com/article/949379250/notice-of-election",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The election notice directs Washington voters to VoteWA.gov, county auditor offices, and public locations for registration and address or name changes. The registration resources and procedures apply to WA-03 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0u59yeu",
+        "headline": "What to know about mail-in voting in WA for the 2026 midterms",
+        "sourceName": "Range Media",
+        "url": "https://www.rangemedia.co/mail-in-ballots-2026-midterms-washington/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide Washington guide covers registration status, address verification, mail-ballot return options, and use of official drop boxes or election offices. These instructions are directly applicable to WA-03 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0xj8eyg",
+        "headline": "Benton County ballots mail Oct. 14, voters urged to return them early",
+        "sourceName": "NBC Right Now",
+        "url": "https://www.nbcrightnow.com/news/benton-county-ballots-mail-oct-14-voters-urged-to-return-them-early/article_bbd96c77-be9e-4629-81ec-2a9527abdcd5.html",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Benton County officials explain ballot delivery, drop-box hours, in-person registration through Election Day, and mailing recommendations. The procedures reflect Washington rules relevant to WA-03 voters, but the county-specific locations are outside the district.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0ch9473",
+        "headline": "Ballots for November 3 Election Will Be Mailed to Voters on October 9",
+        "sourceName": "Snohomish County Elections",
+        "url": "https://snohomishcountywa.gov/m/newsflash/home/detail/3268",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "The notice explains Washington ballot-mailing, drop-box availability, registration deadlines, replacement-ballot services, and the 8 p.m. Election Day return deadline. These statewide procedures apply to WA-03 voters, although the listed drop boxes are in Snohomish County.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0bvwvka",
+        "headline": "Why election officials are pushing voters to ‘use the drop box rather than the mailbox’",
+        "sourceName": "CNN Politics",
+        "url": "https://edition.cnn.com/2026/10/07/politics/drop-boxes-mail-ballots-voting",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "Washington election officials, including Clark County Auditor Greg Kimsey, are urging voters to use official drop boxes and describing security technology used to monitor them. Clark County is part of WA-03, making this directly relevant to district voters returning mail ballots.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0j039uk",
+        "headline": "Protected Zones at Ballot Drop Boxes and Voting Centers",
+        "sourceName": "Municipal Research and Services Center of Washington",
+        "url": "https://mrsc.org/stay-informed/mrsc-insight/october-2026/elections-protected-zones",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article describes Washington’s protected zones around ballot drop boxes and voting centers, including 25-foot drop-box and 100-foot voting-center buffers. The statewide rules apply directly to WA-03 voters and election activity in the district.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-wa03-auto",
-      "startedAt": "2026-10-07T11:07:49.922Z",
-      "completedAt": "2026-10-07T11:08:52.602Z",
+      "id": "run-2026-10-14-wa03-auto",
+      "startedAt": "2026-10-14T09:27:44.188Z",
+      "completedAt": "2026-10-14T09:28:36.734Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 6,
+      "sourcesChecked": 17,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for WA-03. Sources checked: 15. LLM verifications: 12. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for WA-03. Sources checked: 17. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T11:08:52.602Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:28:36.734Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
