@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:28:36.734Z",
-  "exportedAt": "2026-10-14T09:35:45.685Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:18:19.038Z",
+  "exportedAt": "2026-10-21T09:25:32.208Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -1759,20 +1759,100 @@
         "relevanceSummary": "The article describes Washington’s protected zones around ballot drop boxes and voting centers, including 25-foot drop-box and 100-foot voting-center buffers. The statewide rules apply directly to WA-03 voters and election activity in the district.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0qgqcf9",
+        "headline": "Washington General Election 2026: Your ultimate guide",
+        "sourceName": "KIRO 7",
+        "url": "https://www.kiro7.com/news/local/washington-general-election-2026-your-ultimate-guide/7M2RAQFNU5AMDHPUJPDBPF2IH4/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The statewide guide lists key dates, including the Oct. 26 registration deadline and Nov. 3 return deadline, and explains drop-box, voting-center, and same-day registration procedures applicable to WA-03 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0p1ym85",
+        "headline": "Election officials urge Washington voters to cast ballots early",
+        "sourceName": "OPB",
+        "url": "https://www.opb.org/article/2026/10/19/vote-early-washington-state/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Washington election officials recommend using county-operated drop boxes or mailing ballots at least one week before Election Day. The Secretary of State’s website also provides ballot tracking and voting-center information, including locations offering late registration.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-03g5gh7",
+        "headline": "Can I fix a mistake on a ballot? What to know during Washington general election",
+        "sourceName": "The Olympian",
+        "url": "https://www.theolympian.com/news/politics-government/election/article317652431.html",
+        "publishedAt": "2026-10-17",
+        "relevanceSummary": "The statewide procedural guide explains that voters can return ballots to designated drop boxes or vote in person through Nov. 3 and provides information about correcting ballot mistakes during the voting period.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0jshbvc",
+        "headline": "WA voters should receive general election ballots today",
+        "sourceName": "Northwest Asian Weekly",
+        "url": "https://nwasianweekly.com/2026/10/wa-voters-should-receive-general-election-ballots-today/",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The article reports statewide ballot mailing and reiterates that ballots must reach an official drop box by 8 p.m. Nov. 3 or be postmarked by that date. Voters can register online or by mail through Oct. 26, with in-person registration available through Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0tim6ug",
+        "headline": "Voting early? Find a vote center in Washington near you",
+        "sourceName": "The Olympian",
+        "url": "https://www.theolympian.com/news/politics-government/election/article317620385.html",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The statewide election guide identifies Oct. 26 as the deadline for online or mailed registration and explains that voters can register or update their address in person until 8 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-0mnx3ul",
+        "headline": "How do I register to vote in WA? Update my registration? Follow these steps",
+        "sourceName": "The News Tribune",
+        "url": "https://www.thenewstribune.com/news/politics-government/election/voter-guide/article317608381.html",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The statewide voter guide explains ballot delivery, registration, and identification rules. Same-day in-person registration requires photo ID, while voters casting ballots by mail do not need identification.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-043k2ka",
+        "headline": "Voting Underway in Washington in the Midterm Election",
+        "sourceName": "South Seattle Emerald",
+        "url": "https://southseattleemerald.org/news/2026/10/15/voting-underway-in-washington-in-the-midterm-election",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "Washington voters can register or update addresses online through Oct. 26, then use county election offices or voting centers through Election Day. The article advises using one of the state’s designated drop boxes and mailing ballots at least a week early.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-wa03-01ilyq5",
+        "headline": "November General Election ballots mailed to all eligible voters by Oct. 16",
+        "sourceName": "Washington Secretary of State",
+        "url": "https://www.sos.wa.gov/about-office/news/2026/november-general-election-ballots-mailed-all-eligible-voters-oct-16",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "Washington county elections offices will mail ballots to every eligible voter by Oct. 16. Ballots must be returned by 8 p.m. Nov. 3, mailed ballots must be postmarked by Election Day, and online or mailed registrations must be received by Oct. 26; same-day registration remains available in person through Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-wa03-auto",
-      "startedAt": "2026-10-14T09:27:44.188Z",
-      "completedAt": "2026-10-14T09:28:36.734Z",
+      "id": "run-2026-10-21-wa03-auto",
+      "startedAt": "2026-10-21T09:17:19.978Z",
+      "completedAt": "2026-10-21T09:18:19.038Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
-      "updatesCreated": 7,
+      "sourcesChecked": 19,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for WA-03. Sources checked: 17. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for WA-03. Sources checked: 19. LLM verifications: 15. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:28:36.734Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:18:19.038Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
