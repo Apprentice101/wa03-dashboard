@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-11",
-  "updatedAt": "2026-11-11T11:38:59.837Z",
-  "exportedAt": "2026-11-11T11:46:45.007Z",
+  "dataAsOf": "2026-11-18",
+  "updatedAt": "2026-11-18T12:36:25.110Z",
+  "exportedAt": "2026-11-18T12:44:09.234Z",
   "districtCode": "WA-03",
   "data": {
     "DISTRICT": {
@@ -74,7 +74,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-11",
+        "lastVerified": "2026-11-18",
         "confidence": "high"
       },
       "src-wa-voter-registration": {
@@ -161,7 +161,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-11",
+        "lastVerified": "2026-11-18",
         "confidence": "high"
       },
       "src-the-columbian": {
@@ -1842,17 +1842,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-11-wa03-auto",
-      "startedAt": "2026-11-11T11:38:55.704Z",
-      "completedAt": "2026-11-11T11:38:59.837Z",
+      "id": "run-2026-11-18-wa03-auto",
+      "startedAt": "2026-11-18T12:36:20.418Z",
+      "completedAt": "2026-11-18T12:36:25.110Z",
       "triggerType": "scheduled",
       "sourcesChecked": 21,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-11 for WA-03. Sources checked: 21. LLM verifications: 17. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-18 for WA-03. Sources checked: 21. LLM verifications: 17. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-18T11:38:59.837Z",
+    "NEXT_REFRESH_AT": "2026-11-25T12:36:25.110Z",
     "WEEKLY_REPORT": {
       "id": "wr-wa03-2026-w24",
       "periodStart": "2026-06-08",
